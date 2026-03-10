@@ -1,0 +1,32 @@
+---
+interface Props {
+  headings: { depth: number; slug: string; text: string }[];
+}
+
+const { headings } = Astro.props;
+const toc = headings.filter(h => h.depth >= 2 && h.depth <= 3);
+---
+
+{toc.length > 0 && (
+  <nav class="bg-[var(--color-warm)] rounded-xl p-5 mb-8">
+    <div class="font-bold text-sm mb-3 flex items-center gap-2">
+      <span>📋</span>
+      <span>この記事の目次</span>
+    </div>
+    <ol class="space-y-1">
+      {toc.map((heading, i) => (
+        <li class={heading.depth === 3 ? 'ml-4' : ''}>
+          <a
+            href={`#${heading.slug}`}
+            class="text-sm text-gray-600 hover:text-[var(--color-primary)] transition flex items-start gap-2 py-0.5"
+          >
+            <span class="text-xs text-gray-400 shrink-0 mt-0.5">
+              {heading.depth === 2 ? `${i + 1}.` : '・'}
+            </span>
+            <span>{heading.text}</span>
+          </a>
+        </li>
+      ))}
+    </ol>
+  </nav>
+)}

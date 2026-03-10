@@ -1,0 +1,41 @@
+---
+import { stages, stageGroups } from '../lib/stages';
+
+interface Props {
+  currentStage?: string;
+}
+
+const { currentStage } = Astro.props;
+---
+
+<div class="bg-white rounded-xl shadow-sm p-6 mb-8">
+  <h2 class="font-bold text-lg mb-4 flex items-center gap-2">
+    <span>📅</span>
+    <span>ステージから記事を探す</span>
+  </h2>
+
+  {stageGroups.map(group => (
+    <div class="mb-4 last:mb-0">
+      <div class="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2">
+        {group.emoji} {group.label}
+      </div>
+      <div class="flex flex-wrap gap-2">
+        {stages.filter(s => s.group === group.id).map(stage => (
+          <a
+            href={`/stage/${stage.id}`}
+            class:list={[
+              "flex items-center gap-1 px-3 py-2 rounded-lg text-sm transition-all hover:scale-105",
+              currentStage === stage.id
+                ? "text-white shadow-md"
+                : "bg-gray-50 text-gray-600 hover:bg-gray-100"
+            ]}
+            style={currentStage === stage.id ? 'background: var(--color-primary);' : ''}
+          >
+            <span>{stage.emoji}</span>
+            <span class="font-medium">{stage.shortLabel}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  ))}
+</div>

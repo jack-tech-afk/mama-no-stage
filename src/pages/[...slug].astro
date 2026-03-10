@@ -1,0 +1,117 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import TableOfContents from '../components/TableOfContents.astro';
+import AffiliateBox from '../components/AffiliateBox.astro';
+import { getCollection } from 'astro:content';
+import { render } from 'astro:content';
+import { getStage, stages } from '../lib/stages';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map(post => ({
+    params: { slug: post.id },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content, headings } = await render(post);
+const stageInfo = getStage(post.data.stage);
+const dateStr = post.data.pubDate.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
+
+// Related posts
+const allPosts = await getCollection('blog');
+const related = allPosts
+  .filter(p => p.id !== post.id && p.data.stage === post.data.stage)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 3);
+
+// Prev/Next stage
+const stageIndex = stages.findIndex(s => s.id === post.data.stage);
+const prevStage = stageIndex > 0 ? stages[stageIndex - 1] : null;
+const nextStage = stageIndex < stages.length - 1 ? stages[stageIndex + 1] : null;
+---
+
+<BaseLayout
+  title={post.data.title}
+  description={post.data.description}
+  image={post.data.heroImage}
+  type="article"
+  publishedDate={post.data.pubDate}
+>
+  <article class="max-w-3xl mx-auto px-4 py-8">
+    <!-- Breadcrumb -->
+    <nav class="text-xs text-gray-400 mb-4">
+      <a href="/" class="hover:text-[var(--color-primary)]">ホーム</a>
+      <span class="mx-1">/</span>
+      {stageInfo && (
+        <>
+          <a href={`/stage/${post.data.stage}`} class="hover:text-[var(--color-primary)]">{stageInfo.shortLabel}</a>
+          <span class="mx-1">/</span>
+        </>
+      )}
+      <span class="text-gray-500">{post.data.title}</span>
+    </nav>
+
+    <!-- Header -->
+    {post.data.heroImage && (
+      <img src={post.data.heroImage} alt={post.data.title} class="w-full rounded-xl mb-6 shadow-sm" />
+    )}
+
+    <div class="flex items-center gap-2 mb-3">
+      {stageInfo && <span class={`stage-badge ${post.data.stage}`}>{stageInfo.label}</span>}
+      <time class="text-sm text-gray-400" datetime={post.data.pubDate.toISOString()}>{dateStr}</time>
+    </div>
+
+    <h1 class="text-2xl md:text-3xl font-bold mb-6 leading-tight">{post.data.title}</h1>
+
+    <!-- TOC -->
+    <TableOfContents headings={headings} />
+
+    <!-- Affiliate Box (top) -->
+    {post.data.affiliate.length > 0 && (
+      <AffiliateBox items={post.data.affiliate} heading="この記事のおすすめ" />
+    )}
+
+    <!-- Content -->
+    <div class="prose max-w-none">
+      <Content />
+    </div>
+
+    <!-- Affiliate Box (bottom) -->
+    {post.data.affiliate.length > 0 && (
+      <AffiliateBox items={post.data.affiliate} heading="まとめ：おすすめアイテム" />
+    )}
+
+    <!-- Stage Navigation -->
+    <div class="flex gap-4 mt-12 mb-8">
+      {prevStage && (
+        <a href={`/stage/${prevStage.id}`} class="flex-1 bg-white rounded-lg p-4 shadow-sm hover:shadow-md transition text-left">
+          <div class="text-xs text-gray-400 mb-1">← 前のステージ</div>
+          <div class="text-sm font-bold">{prevStage.emoji} {prevStage.shortLabel}</div>
+        </a>
+      )}
+      {nextStage && (
+        <a href={`/stage/${nextStage.id}`} class="flex-1 bg-white rounded-lg p-4 shadow-sm hover:shadow-md transition text-right">
+          <div class="text-xs text-gray-400 mb-1">次のステージ →</div>
+          <div class="text-sm font-bold">{nextStage.emoji} {nextStage.shortLabel}</div>
+        </a>
+      )}
+    </div>
+
+    <!-- Related -->
+    {related.length > 0 && (
+      <section class="mt-8">
+        <h2 class="text-lg font-bold mb-4">あわせて読みたい</h2>
+        <div class="space-y-3">
+          {related.map(r => (
+            <a href={`/${r.id}`} class="block bg-white rounded-lg p-4 shadow-sm hover:shadow-md transition">
+              <div class="font-bold text-sm">{r.data.title}</div>
+              <div class="text-xs text-gray-500 mt-1">{r.data.description}</div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+  </article>
+</BaseLayout>

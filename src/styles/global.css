@@ -1,0 +1,115 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #E8758F;
+  --color-primary-dark: #D4567A;
+  --color-primary-light: #F5B8C9;
+  --color-accent: #7EC8C8;
+  --color-accent-dark: #5EAAAA;
+  --color-warm: #FFF5F0;
+  --color-warm-dark: #FFE8DD;
+  --color-text: #3D3D3D;
+  --color-text-light: #6B6B6B;
+  --font-sans: "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-text);
+  line-height: 1.8;
+}
+
+.prose h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 3px solid var(--color-primary-light);
+}
+
+.prose h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  padding-left: 0.75rem;
+  border-left: 4px solid var(--color-accent);
+}
+
+.prose p { margin-bottom: 1.25rem; }
+.prose ul, .prose ol { margin-bottom: 1.25rem; padding-left: 1.5rem; }
+.prose li { margin-bottom: 0.5rem; }
+
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+}
+
+.prose th {
+  background: var(--color-primary);
+  color: white;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+.prose td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #eee;
+}
+
+.prose tr:nth-child(even) {
+  background: var(--color-warm);
+}
+
+.affiliate-box {
+  background: linear-gradient(135deg, var(--color-warm) 0%, #fff 100%);
+  border: 2px solid var(--color-primary-light);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+}
+
+.affiliate-box .btn {
+  display: inline-block;
+  background: var(--color-primary);
+  color: white;
+  padding: 0.75rem 2rem;
+  border-radius: 9999px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.affiliate-box .btn:hover {
+  background: var(--color-primary-dark);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(232, 117, 143, 0.3);
+}
+
+.stage-badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: white;
+}
+
+.stage-badge.trying { background: #FF85A2; }
+.stage-badge.trimester-1 { background: #E88AAE; }
+.stage-badge.trimester-2 { background: #D4567A; }
+.stage-badge.trimester-3 { background: #C44569; }
+.stage-badge.newborn { background: #7EC8C8; }
+.stage-badge.infant { background: #5EAAAA; }
+.stage-badge.age-1 { background: #F5A623; }
+.stage-badge.age-2 { background: #7B68EE; }
+.stage-badge.age-3 { background: #50C878; }
+.stage-badge.preschool { background: #4A90D9; }
+.stage-badge.elementary { background: #FF6B6B; }

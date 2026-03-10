@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { stages, stageGroups } from '../lib/stages';
+
+const allPosts = await getCollection('blog');
+---
+
+<BaseLayout title="ステージ一覧" description="妊活から小学校まで、全てのステージの記事一覧。あなたの「今」のステージを選んでください。">
+  <div class="max-w-4xl mx-auto px-4 py-12">
+    <h1 class="text-3xl font-bold text-center mb-2">ステージ一覧</h1>
+    <p class="text-center text-gray-500 mb-10">あなたの「今」のステージを選んでください</p>
+
+    {stageGroups.map(group => {
+      const groupStages = stages.filter(s => s.group === group.id);
+      return (
+        <div class="mb-10">
+          <h2 class="text-lg font-bold mb-4 flex items-center gap-2 border-b-2 pb-2" style="border-color: var(--color-primary-light);">
+            <span>{group.emoji}</span>
+            <span>{group.label}</span>
+          </h2>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            {groupStages.map(stage => {
+              const count = allPosts.filter(p => p.data.stage === stage.id).length;
+              return (
+                <a href={`/stage/${stage.id}`} class="bg-white rounded-xl p-5 shadow-sm hover:shadow-md transition flex items-start gap-4 group">
+                  <div class="text-3xl">{stage.emoji}</div>
+                  <div class="flex-1">
+                    <div class="font-bold group-hover:text-[var(--color-primary)] transition">{stage.label}</div>
+                    <div class="text-sm text-gray-500 mt-1">{stage.description}</div>
+                    <div class="text-xs text-gray-400 mt-2">{count}件の記事</div>
+                  </div>
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      );
+    })}
+  </div>
+</BaseLayout>

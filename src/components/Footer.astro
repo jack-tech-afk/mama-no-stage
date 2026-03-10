@@ -1,0 +1,49 @@
+---
+import { stages } from '../lib/stages';
+---
+
+<footer class="bg-gray-50 border-t mt-16">
+  <div class="max-w-6xl mx-auto px-4 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <!-- About -->
+      <div>
+        <div class="flex items-center gap-2 text-lg font-bold mb-3" style="color: var(--color-primary);">
+          <span>🤱</span>
+          <span>ママのステージ</span>
+        </div>
+        <p class="text-sm text-gray-500 leading-relaxed">
+          妊娠したかも？から小学校入学まで。<br />
+          あなたの「今」に寄り添う育児情報サイトです。
+        </p>
+      </div>
+
+      <!-- Stages -->
+      <div>
+        <h3 class="font-bold text-sm mb-3 text-gray-700">ステージから探す</h3>
+        <div class="grid grid-cols-2 gap-1">
+          {stages.map(stage => (
+            <a href={`/stage/${stage.id}`} class="text-xs text-gray-500 hover:text-[var(--color-primary)] transition py-0.5">
+              {stage.emoji} {stage.shortLabel}
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <!-- Links -->
+      <div>
+        <h3 class="font-bold text-sm mb-3 text-gray-700">サイト情報</h3>
+        <div class="space-y-1">
+          <a href="/about" class="block text-xs text-gray-500 hover:text-[var(--color-primary)] transition">運営者情報</a>
+          <a href="/privacy" class="block text-xs text-gray-500 hover:text-[var(--color-primary)] transition">プライバシーポリシー</a>
+          <a href="/disclaimer" class="block text-xs text-gray-500 hover:text-[var(--color-primary)] transition">免責事項</a>
+          <a href="/sitemap-index.xml" class="block text-xs text-gray-500 hover:text-[var(--color-primary)] transition">サイトマップ</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="border-t mt-8 pt-6 text-center text-xs text-gray-400">
+      <p>&copy; {new Date().getFullYear()} ママのステージ All Rights Reserved.</p>
+      <p class="mt-1">※当サイトはアフィリエイトプログラムに参加しています</p>
+    </div>
+  </div>
+</footer>

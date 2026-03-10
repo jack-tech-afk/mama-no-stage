@@ -1,0 +1,68 @@
+---
+import { stages, stageGroups } from '../lib/stages';
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="bg-white shadow-sm sticky top-0 z-50">
+  <div class="max-w-6xl mx-auto px-4">
+    <!-- Top bar -->
+    <div class="flex items-center justify-between h-16">
+      <a href="/" class="flex items-center gap-2 text-xl font-bold" style="color: var(--color-primary);">
+        <span class="text-2xl">🤱</span>
+        <span>ママのステージ</span>
+      </a>
+      <nav class="hidden md:flex items-center gap-6 text-sm">
+        <a href="/" class:list={["hover:text-[var(--color-primary)] transition", { "text-[var(--color-primary)] font-bold": currentPath === "/" }]}>ホーム</a>
+        <a href="/stages" class:list={["hover:text-[var(--color-primary)] transition", { "text-[var(--color-primary)] font-bold": currentPath.startsWith("/stages") }]}>ステージ一覧</a>
+        <a href="/about" class:list={["hover:text-[var(--color-primary)] transition", { "text-[var(--color-primary)] font-bold": currentPath === "/about" }]}>運営者情報</a>
+      </nav>
+      <button id="mobile-menu-btn" class="md:hidden p-2" aria-label="メニュー">
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+      </button>
+    </div>
+
+    <!-- Stage Navigation Bar -->
+    <div class="overflow-x-auto pb-2 -mx-4 px-4 scrollbar-hide">
+      <div class="flex gap-2 min-w-max">
+        {stages.map(stage => (
+          <a
+            href={`/stage/${stage.id}`}
+            class:list={[
+              "flex items-center gap-1 px-3 py-1.5 rounded-full text-xs font-medium whitespace-nowrap transition-all hover:scale-105",
+              currentPath === `/stage/${stage.id}/` || currentPath === `/stage/${stage.id}`
+                ? "text-white shadow-md"
+                : "bg-gray-100 text-gray-600 hover:bg-gray-200"
+            ]}
+            style={currentPath === `/stage/${stage.id}/` || currentPath === `/stage/${stage.id}` ? `background: var(--color-primary);` : ''}
+          >
+            <span>{stage.emoji}</span>
+            <span>{stage.shortLabel}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile Menu -->
+  <div id="mobile-menu" class="hidden md:hidden bg-white border-t">
+    <div class="px-4 py-3 space-y-2">
+      <a href="/" class="block py-2 text-sm">ホーム</a>
+      <a href="/stages" class="block py-2 text-sm">ステージ一覧</a>
+      <a href="/about" class="block py-2 text-sm">運営者情報</a>
+    </div>
+  </div>
+</header>
+
+<style>
+  .scrollbar-hide::-webkit-scrollbar { display: none; }
+  .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+</style>
+
+<script>
+  document.getElementById('mobile-menu-btn')?.addEventListener('click', () => {
+    document.getElementById('mobile-menu')?.classList.toggle('hidden');
+  });
+</script>
