@@ -55,7 +55,7 @@ const nextStage = stageIndex < stages.length - 1 ? stages[stageIndex + 1] : null
 
     <!-- Header -->
     {post.data.heroImage && (
-      <img src={post.data.heroImage} alt={post.data.title} class="w-full rounded-xl mb-6 shadow-sm" />
+      <img src={post.data.heroImage} alt={post.data.title} class="w-full rounded-xl mb-6 shadow-sm aspect-[1200/630] object-cover" />
     )}
 
     <div class="flex items-center gap-2 mb-3">
@@ -101,15 +101,30 @@ const nextStage = stageIndex < stages.length - 1 ? stages[stageIndex + 1] : null
 
     <!-- Related -->
     {related.length > 0 && (
-      <section class="mt-8">
-        <h2 class="text-lg font-bold mb-4">あわせて読みたい</h2>
+      <section class="mt-8 bg-gradient-to-br from-[var(--color-warm)] to-white rounded-2xl p-6">
+        <h2 class="text-lg font-bold mb-4 flex items-center gap-2">
+          <span class="inline-block w-1.5 h-6 bg-[var(--color-primary)] rounded-full"></span>
+          あわせて読みたい
+        </h2>
         <div class="space-y-3">
-          {related.map(r => (
-            <a href={`/${r.id}`} class="block bg-white rounded-lg p-4 shadow-sm hover:shadow-md transition">
-              <div class="font-bold text-sm">{r.data.title}</div>
-              <div class="text-xs text-gray-500 mt-1">{r.data.description}</div>
-            </a>
-          ))}
+          {related.map(r => {
+            const relStage = getStage(r.data.stage);
+            return (
+              <a href={`/${r.id}`} class="flex items-center gap-4 bg-white rounded-xl p-4 shadow-sm hover:shadow-md transition group/rel">
+                {r.data.heroImage ? (
+                  <img src={r.data.heroImage} alt="" class="w-20 h-14 rounded-lg object-cover shrink-0" loading="lazy" />
+                ) : (
+                  <div class="w-20 h-14 rounded-lg bg-gradient-to-br from-[var(--color-warm)] to-[var(--color-primary-light)] flex items-center justify-center shrink-0">
+                    <span class="text-xl">{relStage?.emoji ?? '📝'}</span>
+                  </div>
+                )}
+                <div class="flex-1 min-w-0">
+                  <div class="font-bold text-sm group-hover/rel:text-[var(--color-primary)] transition line-clamp-2">{r.data.title}</div>
+                  <div class="text-xs text-gray-500 mt-1 line-clamp-1">{r.data.description}</div>
+                </div>
+              </a>
+            );
+          })}
         </div>
       </section>
     )}
