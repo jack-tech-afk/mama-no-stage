@@ -1,7 +1,7 @@
 ---
 title: "妊娠中のお金が不安…今すぐ使える給付金・助成金と節約術まとめ"
 description: "出産育児一時金50万円、出産手当金、育児休業給付金、高額療養費、妊婦健診助成、医療費控除など、妊娠・出産で使えるお金の制度を総まとめ。申請漏れゼロのチェックリスト付き。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-18"
 category: "妊娠初期"
 stage: "trimester-1"
 heroImage: "/images/heroes/hero-trimester-1.png"

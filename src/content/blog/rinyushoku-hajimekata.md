@@ -1,7 +1,7 @@
 ---
 title: "離乳食の始め方完全ガイド｜月齢別の進め方とおすすめ食材"
 description: "離乳食の始め方を月齢別に徹底解説。初期・中期・後期・完了期の進め方、食材一覧、アレルギー対策、おすすめベビーフード比較まで完全ガイド。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-22"
 category: "乳児"
 stage: "infant"
 heroImage: "/images/heroes/hero-infant.png"

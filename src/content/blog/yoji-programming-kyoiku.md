@@ -1,7 +1,7 @@
 ---
 title: "幼児向けプログラミング教材おすすめ5選｜遊びながら論理的思考力UP"
 description: "幼児向けプログラミング教材のおすすめ5選を紹介。キュベット・レゴ・ScratchJrなど、遊びながら論理的思考力が身につく教材を比較解説。"
-pubDate: "2026-03-11"
+pubDate: "2026-03-08"
 category: "4-6歳"
 stage: "preschool"
 heroImage: "/images/heroes/hero-preschool.png"

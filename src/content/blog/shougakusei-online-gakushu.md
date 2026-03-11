@@ -1,7 +1,7 @@
 ---
 title: "小学生向けオンライン学習比較｜スマイルゼミ vs 進研ゼミ vs Z会"
 description: "小学生向けオンライン学習教材を徹底比較。スマイルゼミ・進研ゼミ・Z会の料金・特徴・口コミを解説し、学年別のおすすめを紹介します。"
-pubDate: "2026-03-11"
+pubDate: "2026-03-10"
 category: "小学生"
 stage: "elementary"
 heroImage: "/images/heroes/hero-elementary.png"

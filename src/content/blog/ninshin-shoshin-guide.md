@@ -1,7 +1,7 @@
 ---
 title: "妊娠初診はいつ行く？産婦人科の選び方と初診の流れ"
 description: "妊娠初診のベストタイミングは5〜6週目。産婦人科と助産院の違い、初診の流れ・費用・持ち物、母子手帳のもらい方まで初めてのプレママ向けに詳しく解説。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-22"
 category: "妊娠初期"
 stage: "trimester-1"
 heroImage: "/images/heroes/hero-trimester-1.png"

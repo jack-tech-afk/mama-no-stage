@@ -1,7 +1,7 @@
 ---
 title: "妊娠中の家事分担どうする？夫婦円満のための話し合いテンプレート"
 description: "妊娠中のパートナーへの不満第1位は「家事分担」。つわり期・安定期・臨月と段階的に変わる体調に合わせた家事分担表の作り方、話し合いテンプレート、便利サービスを紹介。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-28"
 category: "妊娠中期"
 stage: "trimester-2"
 heroImage: "/images/heroes/hero-trimester-2.png"

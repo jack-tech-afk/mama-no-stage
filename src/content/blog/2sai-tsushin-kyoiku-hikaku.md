@@ -1,7 +1,7 @@
 ---
 title: "2歳向け通信教育比較｜こどもちゃれんじ vs ポピー vs Z会"
 description: "2歳向け通信教育を徹底比較。こどもちゃれんじ・ポピー・Z会の料金・教材内容・口コミ・メリットデメリットを比較表付きで解説します。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-28"
 category: "2歳"
 stage: "age-2"
 heroImage: "/images/heroes/hero-age-2.png"

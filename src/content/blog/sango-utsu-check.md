@@ -1,7 +1,7 @@
 ---
 title: "産後うつかも？エジンバラ質問票でセルフチェック｜対処法5選"
 description: "産後うつの症状チェックをエジンバラ産後うつ質問票（EPDS）で簡単セルフ診断。マタニティブルーとの違い、相談窓口一覧、回復に向けた5つの対処法を詳しく紹介します。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-16"
 category: "新生児"
 stage: "newborn"
 heroImage: "/images/heroes/hero-newborn.png"

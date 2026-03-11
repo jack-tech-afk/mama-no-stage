@@ -1,7 +1,7 @@
 ---
 title: "トイレトレーニング完全ガイド｜始め時・やり方・おすすめグッズ"
 description: "トイレトレーニングの始め時、ステップ別の進め方、おまるvs補助便座の比較、トレーニングパンツやシール台紙の活用法まで完全ガイドとして解説します。"
-pubDate: "2026-03-11"
+pubDate: "2026-03-02"
 category: "2歳"
 stage: "age-2"
 heroImage: "/images/heroes/hero-age-2.png"

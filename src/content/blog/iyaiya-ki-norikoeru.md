@@ -1,7 +1,7 @@
 ---
 title: "イヤイヤ期の乗り越え方｜2歳児のかんしゃくへの正しい対応"
 description: "2歳前後のイヤイヤ期を乗り越えるための正しい対応法を解説。NGな声かけ、効果的な声かけ例、外出先での対処法、ママパパのメンタルケアまで。"
-pubDate: "2026-03-11"
+pubDate: "2026-03-01"
 category: "2歳"
 stage: "age-2"
 heroImage: "/images/heroes/hero-age-2.png"

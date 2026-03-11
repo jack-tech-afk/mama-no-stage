@@ -1,7 +1,7 @@
 ---
 title: "【先輩ママ実証】つわり対策グッズおすすめ10選｜食べづわり・吐きづわり別"
 description: "先輩ママの体験談をもとに、つわり対策グッズおすすめ10選を紹介。食べづわり・吐きづわり・におい対策に効果的なアイテムと職場での対策法も解説します。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-23"
 category: "妊娠初期"
 stage: "trimester-1"
 heroImage: "/images/heroes/hero-trimester-1.png"

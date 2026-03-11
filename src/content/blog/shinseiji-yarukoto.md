@@ -1,7 +1,7 @@
 ---
 title: "新生児期は一瞬！生後1ヶ月までにやっておきたいこと10選"
 description: "新生児期はあっという間に過ぎてしまいます。出生届や児童手当の手続き、ニューボーンフォト、内祝い手配など、生後1ヶ月までにやるべきことをタイムラインで完全解説します。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-18"
 category: "新生児"
 stage: "newborn"
 heroImage: "/images/heroes/hero-newborn.png"

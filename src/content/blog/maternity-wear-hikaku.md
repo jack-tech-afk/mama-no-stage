@@ -1,7 +1,7 @@
 ---
 title: "マタニティウェアおすすめブランド比較｜おしゃれ＆コスパ重視"
 description: "マタニティウェアの人気ブランドを徹底比較。UNIQLO・無印良品・犬印本舗・Sweet Mommyなど、おしゃれでコスパの良い選び方と季節別コーデを紹介。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-27"
 category: "妊娠中期"
 stage: "trimester-2"
 heroImage: "/images/heroes/hero-trimester-2.png"

@@ -1,7 +1,7 @@
 ---
 title: "妊娠が分かったら最初にやること15選｜届出・保険・職場報告の順番"
 description: "妊娠が判明したら何から始める？妊娠届出・母子手帳・保険見直し・職場報告まで、やるべき15のことを時系列で解説。手続き漏れゼロのチェックリスト付き。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-22"
 category: "妊娠初期"
 stage: "trimester-1"
 heroImage: "/images/heroes/hero-trimester-1.png"

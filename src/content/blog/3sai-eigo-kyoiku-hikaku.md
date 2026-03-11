@@ -1,7 +1,7 @@
 ---
 title: "3歳からの英語教育おすすめ比較｜ディズニー英語・ペッピーキッズ・こどもちゃれんじEnglish"
 description: "3歳から始める英語教育を徹底比較。ディズニー英語システム・ペッピーキッズクラブ・こどもちゃれんじEnglishの料金・内容・口コミを解説します。"
-pubDate: "2026-03-11"
+pubDate: "2026-03-03"
 category: "3歳"
 stage: "age-3"
 heroImage: "/images/heroes/hero-age-3.png"

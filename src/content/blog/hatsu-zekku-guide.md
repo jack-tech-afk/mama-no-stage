@@ -1,7 +1,7 @@
 ---
 title: "初節句のお祝いガイド｜男の子・女の子の飾り方・食事・費用"
 description: "初節句のお祝い方法を男の子・女の子別に徹底解説。兜飾り・雛人形の選び方、お祝い料理、両家への配慮、費用の目安、写真撮影のコツまでまとめました。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-20"
 category: "乳児"
 stage: "infant"
 heroImage: "/images/heroes/hero-infant.png"

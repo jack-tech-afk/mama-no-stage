@@ -1,7 +1,7 @@
 ---
 title: "妊娠初期に仕事を休むべき？休職・時短の法的根拠と上司への伝え方"
 description: "妊娠初期の仕事を休みたいときに使える制度を徹底解説。母性健康管理指導事項連絡カード、有給・傷病手当金、上司への報告テンプレートもご紹介。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-20"
 category: "妊娠初期"
 stage: "trimester-1"
 heroImage: "/images/heroes/hero-trimester-1.png"

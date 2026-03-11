@@ -1,7 +1,7 @@
 ---
 title: "妊娠初期の流産確率と予防｜気をつけるべき症状と過ごし方"
 description: "妊娠初期の流産は全妊娠の約15%。原因の多くは染色体異常で防げないものの、注意すべき出血や腹痛の症状、安静の目安、心のケアまで産婦人科医監修レベルで解説。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-19"
 category: "妊娠初期"
 stage: "trimester-1"
 heroImage: "/images/heroes/hero-trimester-1.png"

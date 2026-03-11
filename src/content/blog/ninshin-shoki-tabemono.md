@@ -1,7 +1,7 @@
 ---
 title: "妊娠初期に食べてはいけないもの一覧｜安全な食事ガイド"
 description: "妊娠初期に避けるべきNG食品と安全な食事を一覧で紹介。生肉・生魚・カフェイン制限など、妊婦に必要な栄養素の摂り方と簡単レシピも解説します。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-21"
 category: "妊娠初期"
 stage: "trimester-1"
 heroImage: "/images/heroes/hero-trimester-1.png"

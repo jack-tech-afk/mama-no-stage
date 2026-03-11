@@ -1,7 +1,7 @@
 ---
 title: "【2026年版】卵子凍結は何歳まで？費用・成功率・リスクを徹底比較"
 description: "卵子凍結の適切な年齢・費用相場・保管期間・成功率データ・自治体助成金を徹底解説。将来の妊娠に備えるための正しい知識をお伝えします。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-15"
 category: "妊活"
 stage: "trying"
 heroImage: "/images/heroes/hero-trying.png"

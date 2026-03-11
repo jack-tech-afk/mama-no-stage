@@ -1,7 +1,7 @@
 ---
 title: "安産祈願はいつ行く？戌の日参りの時期・服装・費用まとめ"
 description: "安産祈願・戌の日参りの時期や2026年の戌の日カレンダー、人気神社、服装マナー、初穂料の相場、腹帯の選び方まで詳しく解説します。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-26"
 category: "妊娠中期"
 stage: "trimester-2"
 heroImage: "/images/heroes/hero-trimester-2.png"

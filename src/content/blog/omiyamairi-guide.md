@@ -1,7 +1,7 @@
 ---
 title: "お宮参りガイド｜時期・服装・費用・写真撮影のすべて"
 description: "お宮参りの時期、神社の選び方、赤ちゃん・ママ・パパの服装、初穂料の相場、写真撮影まで。初めてのお宮参りに必要な情報を完全網羅しました。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-12"
 category: "新生児"
 stage: "newborn"
 heroImage: "/images/heroes/hero-newborn.png"

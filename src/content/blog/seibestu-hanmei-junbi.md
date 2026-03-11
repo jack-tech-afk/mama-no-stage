@@ -1,7 +1,7 @@
 ---
 title: "赤ちゃんの性別判明！男の子・女の子それぞれの準備リスト"
 description: "赤ちゃんの性別がわかる時期やエコーでの見分け方を解説。男の子・女の子別の名付けトレンド、ベビー用品準備リスト、ジェンダーリビールパーティーの演出も紹介。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-30"
 category: "妊娠中期"
 stage: "trimester-2"
 heroImage: "/images/heroes/hero-trimester-2.png"

@@ -1,7 +1,7 @@
 ---
 title: "断乳・卒乳のタイミングと方法｜スムーズに進めるコツ"
 description: "断乳と卒乳の違い、適切な時期、3日間断乳法、夜間断乳のコツ、おっぱいケアまで。スムーズに進めるための方法を助産師監修レベルで解説します。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-27"
 category: "1歳"
 stage: "age-1"
 heroImage: "/images/heroes/hero-age-1.png"

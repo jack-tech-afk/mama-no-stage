@@ -1,7 +1,7 @@
 ---
 title: "妊娠中のカフェイン、どこまでOK？カフェチェーン別デカフェ対応表"
 description: "妊娠中のカフェイン摂取量の目安をWHO・日本産科婦人科学会のガイドラインで解説。スタバ・タリーズ・ドトールなどカフェチェーン別デカフェメニュー一覧付き。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-17"
 category: "妊娠初期"
 stage: "trimester-1"
 heroImage: "/images/heroes/hero-trimester-1.png"

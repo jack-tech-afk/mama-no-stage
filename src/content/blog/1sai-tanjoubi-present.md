@@ -1,7 +1,7 @@
 ---
 title: "1歳の誕生日プレゼントおすすめランキング｜男の子・女の子別"
 description: "1歳の誕生日プレゼントを男の子・女の子別にランキング形式で紹介。知育おもちゃ・ファーストシューズ・一升餅など予算別おすすめを徹底解説します。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-26"
 category: "1歳"
 stage: "age-1"
 heroImage: "/images/heroes/hero-age-1.png"

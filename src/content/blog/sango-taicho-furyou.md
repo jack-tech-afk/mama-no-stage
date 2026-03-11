@@ -1,7 +1,7 @@
 ---
 title: "産後の謎の体調不良は自律神経のせい？症状チェックと改善法まとめ"
 description: "産後に急な吐き気・めまい・冷や汗が起きる原因は自律神経の乱れかも。ホルモンバランスとの関係、セルフチェックリスト、すぐにできる改善法、受診の目安を詳しく解説します。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-15"
 category: "新生児"
 stage: "newborn"
 heroImage: "/images/heroes/hero-newborn.png"

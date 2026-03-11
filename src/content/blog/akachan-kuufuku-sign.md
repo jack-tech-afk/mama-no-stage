@@ -1,7 +1,7 @@
 ---
 title: "泣いたらミルクは間違い？赤ちゃんの本当の空腹サインを見逃さない方法"
 description: "赤ちゃんが泣くのは空腹の最終サイン。口をパクパク、手を口に運ぶなど、泣く前の空腹サインの見分け方を月齢別に解説。授乳間隔の目安や哺乳瓶の選び方も紹介します。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-09"
 category: "新生児"
 stage: "newborn"
 heroImage: "/images/heroes/hero-newborn.png"

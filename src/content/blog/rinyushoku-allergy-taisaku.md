@@ -1,7 +1,7 @@
 ---
 title: "離乳食のアレルギーが心配！卵・小麦の始め方と症状の見分け方"
 description: "離乳食で卵・牛乳・小麦を始める時期と量を徹底解説。アレルギー症状の見分け方、万が一の対応法、検査を受ける目安まで初めてのママにもわかりやすくまとめました。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-21"
 category: "乳児"
 stage: "infant"
 heroImage: "/images/heroes/hero-infant.png"

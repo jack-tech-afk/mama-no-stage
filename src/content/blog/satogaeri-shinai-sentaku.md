@@ -1,7 +1,7 @@
 ---
 title: "里帰り出産しない選択も！メリット・デメリットと準備チェックリスト"
 description: "里帰り出産しないで自宅で産後を過ごすメリット・デメリットを徹底比較。夫の育休取得との連携や、食材宅配・産後ケア施設の活用法、準備チェックリストをまとめました。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-04"
 category: "妊娠後期"
 stage: "trimester-3"
 heroImage: "/images/heroes/hero-trimester-3.png"

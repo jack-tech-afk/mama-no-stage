@@ -1,7 +1,7 @@
 ---
 title: "プレ幼稚園の選び方｜入園前に知っておくべきポイント"
 description: "プレ幼稚園の探し方・申し込み時期・見学チェックリスト・費用の目安を解説。幼稚園vs保育園vs認定こども園の違い、入園準備グッズも紹介します。"
-pubDate: "2026-03-11"
+pubDate: "2026-03-04"
 category: "3歳"
 stage: "age-3"
 heroImage: "/images/heroes/hero-age-3.png"

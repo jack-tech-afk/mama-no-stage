@@ -1,7 +1,7 @@
 ---
 title: "ネントレはいつから？寝かしつけ0秒を叶える5つのルールと月齢別ガイド"
 description: "ネントレ（ねんねトレーニング）の開始時期は生後4〜6ヶ月がベスト。日本の添い寝文化にも合うゆるいネントレ方法と5つの基本ルールを月齢別に解説します。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-21"
 category: "乳児"
 stage: "infant"
 heroImage: "/images/heroes/hero-infant.png"

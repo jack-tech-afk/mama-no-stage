@@ -1,7 +1,7 @@
 ---
 title: "赤ちゃんの頭の形が気になる？向き癖対策とヘルメット治療"
 description: "赤ちゃんの頭の形が歪む原因と対策を解説。向き癖グッズの比較やヘルメット治療（スターバンド・アイメット）の費用・期間・効果まで詳しくまとめました。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-08"
 category: "新生児"
 stage: "newborn"
 heroImage: "/images/heroes/hero-newborn.png"

@@ -1,7 +1,7 @@
 ---
 title: "七五三の準備ガイド｜時期・衣装・写真・費用の全て"
 description: "七五三の年齢・時期・衣装レンタルvs購入・前撮り・スタジオ選び・神社での祈祷・費用の内訳まで、七五三準備の全てを徹底ガイドします。"
-pubDate: "2026-03-11"
+pubDate: "2026-03-05"
 category: "3歳"
 stage: "age-3"
 heroImage: "/images/heroes/hero-age-3.png"

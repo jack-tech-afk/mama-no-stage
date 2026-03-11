@@ -1,7 +1,7 @@
 ---
 title: "【入院バッグの中身】先輩ママが本当に使ったもの＆いらなかったもの"
 description: "出産入院バッグの中身を完全リスト化。陣痛バッグ・入院バッグ・退院バッグの3種の分け方、先輩ママのリアルな声、季節別の追加アイテムも紹介します。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-03"
 category: "妊娠後期"
 stage: "trimester-3"
 heroImage: "/images/heroes/hero-trimester-3.png"

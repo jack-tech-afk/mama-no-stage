@@ -1,7 +1,7 @@
 ---
 title: "【完全版】出産準備リスト｜本当に必要なものだけ厳選"
 description: "出産準備で本当に必要なものを厳選リスト化。入院バッグ・赤ちゃん用品・ママ用品を優先度別に整理。レンタルvs購入の判断基準や費用の目安も解説。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-06"
 category: "妊娠後期"
 stage: "trimester-3"
 heroImage: "/images/heroes/hero-trimester-3.png"

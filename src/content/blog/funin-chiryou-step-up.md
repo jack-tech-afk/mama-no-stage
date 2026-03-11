@@ -1,7 +1,7 @@
 ---
 title: "【2026年】不妊治療ステップアップの判断基準と費用を徹底解説"
 description: "タイミング法→人工授精→体外受精のステップアップ時期の目安、保険適用後の費用比較、年齢別成功率、PGT-Aなど先進医療の最新情報を解説。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-10"
 category: "妊活"
 stage: "trying"
 heroImage: "/images/heroes/hero-trying.png"

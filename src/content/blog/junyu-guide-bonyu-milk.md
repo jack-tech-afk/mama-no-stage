@@ -1,7 +1,7 @@
 ---
 title: "新生児の授乳ガイド｜母乳・ミルク・混合のメリット比較"
 description: "母乳・ミルク・混合育児のメリット・デメリットを徹底比較。おすすめ粉ミルクや哺乳瓶の選び方まで、新米ママが知りたい授乳の基礎知識をまとめました。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-11"
 category: "新生児"
 stage: "newborn"
 heroImage: "/images/heroes/hero-newborn.png"

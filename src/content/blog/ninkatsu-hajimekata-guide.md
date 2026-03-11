@@ -1,7 +1,7 @@
 ---
 title: "妊活の始め方完全ガイド｜基礎体温から葉酸サプリまで"
 description: "妊活を始めたい方へ。基礎体温の測り方・排卵検査薬の使い方・葉酸サプリ比較・食事改善まで、妊活の始め方をステップ別に完全ガイドします。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-11"
 category: "妊活"
 stage: "trying"
 heroImage: "/images/heroes/hero-trying.png"

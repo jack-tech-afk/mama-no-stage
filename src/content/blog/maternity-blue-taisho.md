@@ -1,7 +1,7 @@
 ---
 title: "妊娠中の情緒不安定はホルモンのせい？マタニティブルー対処法5選"
 description: "妊娠中の涙もろさ・イライラ・不安はホルモンバランスの変化が原因。マタニティブルーと産前うつの違い、今日からできるセルフケア5選、相談窓口一覧をまとめました。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-16"
 category: "妊娠初期"
 stage: "trimester-1"
 heroImage: "/images/heroes/hero-trimester-1.png"

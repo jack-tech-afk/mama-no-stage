@@ -1,7 +1,7 @@
 ---
 title: "【2027年入学】ランドセル選び完全ガイド｜人気ブランド比較"
 description: "2027年入学向けランドセルの選び方を完全解説。天使のはね・フィットちゃん・土屋鞄など人気ブランドの比較、ラン活スケジュールも紹介。"
-pubDate: "2026-03-11"
+pubDate: "2026-03-07"
 category: "4-6歳"
 stage: "preschool"
 heroImage: "/images/heroes/hero-preschool.png"

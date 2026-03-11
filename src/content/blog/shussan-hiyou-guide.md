@@ -1,7 +1,7 @@
 ---
 title: "出産費用はいくらかかる？助成金・給付金・医療費控除まとめ"
 description: "出産費用の平均相場と使える制度を徹底解説。出産育児一時金50万円・高額療養費制度・医療費控除など、知らないと損する助成金・給付金情報をまとめました。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-05"
 category: "妊娠後期"
 stage: "trimester-3"
 heroImage: "/images/heroes/hero-trimester-3.png"

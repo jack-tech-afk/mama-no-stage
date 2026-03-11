@@ -1,7 +1,7 @@
 ---
 title: "陣痛の兆候と対処法｜前駆陣痛と本陣痛の見分け方"
 description: "陣痛の種類・兆候・対処法を徹底解説。前駆陣痛と本陣痛の見分け方、陣痛間隔の計り方、病院に行くタイミング、呼吸法・いきみ逃しのコツを紹介します。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-31"
 category: "妊娠後期"
 stage: "trimester-3"
 heroImage: "/images/heroes/hero-trimester-3.png"

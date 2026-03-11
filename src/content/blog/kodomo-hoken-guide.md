@@ -1,7 +1,7 @@
 ---
 title: "子どもの医療保険・学資保険は必要？FPが教える選び方"
 description: "子どもの医療保険と学資保険の必要性をFP視点で解説。医療費助成制度の仕組み、学資保険のメリット、NISA vs 学資保険の比較も紹介。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-01"
 category: "妊娠後期"
 stage: "trimester-3"
 heroImage: "/images/heroes/hero-trimester-3.png"

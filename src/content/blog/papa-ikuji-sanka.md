@@ -1,7 +1,7 @@
 ---
 title: "パパの育児参加ガイド｜ママが本当に助かるサポート10選"
 description: "パパの育児参加で本当に助かるサポート10選を紹介。沐浴・夜間ミルク・家事分担のコツ、育休取得のメリット、NG行動5選も解説します。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-13"
 category: "新生児"
 stage: "newborn"
 heroImage: "/images/heroes/hero-newborn.png"

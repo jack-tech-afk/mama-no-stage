@@ -1,7 +1,7 @@
 ---
 title: "安産のためにできる7つのこと｜運動・食事・呼吸法を助産師が解説"
 description: "安産のためにできる準備を助産師監修で徹底解説。骨盤底筋エクササイズ、ウォーキング、会陰マッサージ、呼吸法など具体的な方法をお伝えします。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-25"
 category: "妊娠中期"
 stage: "trimester-2"
 heroImage: "/images/heroes/hero-trimester-2.png"

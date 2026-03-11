@@ -1,7 +1,7 @@
 ---
 title: "35歳以上の高齢出産｜リスクと対策を産婦人科医が徹底解説"
 description: "35歳以上の高齢出産で気になるリスクと対策を詳しく解説。染色体異常や妊娠高血圧症候群の確率、NIPTなど出生前診断の種類・費用、利用できるサポート制度まで網羅的にまとめました。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-02"
 category: "妊娠後期"
 stage: "trimester-3"
 heroImage: "/images/heroes/hero-trimester-3.png"

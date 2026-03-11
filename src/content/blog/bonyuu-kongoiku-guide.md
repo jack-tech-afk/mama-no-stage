@@ -1,7 +1,7 @@
 ---
 title: "母乳が出ない…混合育児のミルク量と母乳を増やすコツ【助産師監修】"
 description: "母乳が出にくいと悩むママへ。混合育児でのミルク量の目安、母乳量を増やすための具体的なコツ、完全ミルクへの罪悪感との向き合い方を助産師監修のもと解説します。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-10"
 category: "新生児"
 stage: "newborn"
 heroImage: "/images/heroes/hero-newborn.png"

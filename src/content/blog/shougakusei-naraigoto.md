@@ -1,7 +1,7 @@
 ---
 title: "小学生の習い事おすすめランキング｜費用・効果・子どもの成長"
 description: "小学生に人気の習い事TOP10を費用・効果で比較。月謝の相場、習い事の数の目安、やめ時の判断基準、送迎問題の解決策を解説します。"
-pubDate: "2026-03-11"
+pubDate: "2026-03-09"
 category: "小学生"
 stage: "elementary"
 heroImage: "/images/heroes/hero-elementary.png"

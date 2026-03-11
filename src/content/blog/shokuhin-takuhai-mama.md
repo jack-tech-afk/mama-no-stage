@@ -1,7 +1,7 @@
 ---
 title: "忙しいママにおすすめ食材宅配サービス比較｜コープ・オイシックス・パルシステム"
 description: "忙しいママ向け食材宅配サービスを徹底比較。コープ・オイシックス・パルシステムの料金・品質・離乳食対応を解説。お試しセット情報も。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-24"
 category: "乳児"
 stage: "infant"
 heroImage: "/images/heroes/hero-infant.png"

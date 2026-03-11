@@ -1,7 +1,7 @@
 ---
 title: "母子手帳はいつもらえる？受け取り方と活用ガイド"
 description: "母子手帳はいつ・どこでもらえる？受け取り時期・手続き方法・自治体による違い・便利な活用法・デザインが選べる自治体まで、プレママ向けに詳しく解説。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-16"
 category: "妊娠初期"
 stage: "trimester-1"
 heroImage: "/images/heroes/hero-trimester-1.png"

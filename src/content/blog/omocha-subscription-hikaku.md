@@ -1,7 +1,7 @@
 ---
 title: "おもちゃサブスクおすすめ比較｜トイサブ・キッズラボラトリー・Cha Cha Cha"
 description: "おもちゃサブスクのおすすめ3社を徹底比較。トイサブ・キッズラボラトリー・Cha Cha Chaの料金・対象年齢・メリデメ・衛生管理を解説。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-27"
 category: "1歳"
 stage: "age-1"
 heroImage: "/images/heroes/hero-age-1.png"

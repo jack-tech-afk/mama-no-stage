@@ -1,7 +1,7 @@
 ---
 title: "妊娠中の足のむくみがひどい！助産師おすすめ解消法7選と危険なサイン"
 description: "妊娠中のつらい足のむくみを解消する7つの方法を助産師監修で解説。着圧ソックスやマッサージの効果的な使い方、妊娠高血圧腎症の危険サインも紹介します。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-28"
 category: "妊娠中期"
 stage: "trimester-2"
 heroImage: "/images/heroes/hero-trimester-2.png"

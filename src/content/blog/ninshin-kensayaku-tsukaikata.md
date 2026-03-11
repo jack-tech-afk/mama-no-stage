@@ -1,7 +1,7 @@
 ---
 title: "【2026年最新】妊娠検査薬の正しい使い方と選び方｜フライングはいつから？"
 description: "妊娠検査薬の正しい使い方・フライング検査のタイミング・おすすめ検査薬比較を徹底解説。クリアブルー・ドゥーテスト・チェックワンの精度や価格も紹介します。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-13"
 category: "妊活"
 stage: "trying"
 heroImage: "/images/heroes/hero-trying.png"

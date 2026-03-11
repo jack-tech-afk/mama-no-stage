@@ -1,7 +1,7 @@
 ---
 title: "【2026年新基準】妊娠中の体重増加の目安｜BMI別の管理法と注意点"
 description: "2021年改定の新基準に基づく妊娠中の体重増加目安をBMI別に解説。週ごとの適正ペースや妊娠高血圧症候群・妊娠糖尿病のリスク管理法も紹介します。"
-pubDate: "2026-03-11"
+pubDate: "2026-01-29"
 category: "妊娠中期"
 stage: "trimester-2"
 heroImage: "/images/heroes/hero-trimester-2.png"

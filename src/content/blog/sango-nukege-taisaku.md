@@ -1,7 +1,7 @@
 ---
 title: "産後の抜け毛がひどい！ピークはいつ？原因と今すぐできる5つの対策"
 description: "産後2〜3ヶ月から始まり4〜6ヶ月がピーク。約7割の女性が経験する産後の抜け毛の原因とメカニズム、育毛シャンプー・栄養・頭皮マッサージなど今すぐできる5つの対策を解説。"
-pubDate: "2026-03-11"
+pubDate: "2026-02-23"
 category: "乳児"
 stage: "infant"
 heroImage: "/images/heroes/hero-infant.png"
