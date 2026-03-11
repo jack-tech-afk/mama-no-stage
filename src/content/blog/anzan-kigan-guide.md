@@ -172,3 +172,9 @@ affiliate:
 妊娠中期に入ったら、出産準備も少しずつ始めたいところです。母子手帳の活用法については「[母子手帳はいつもらえる？受け取り方と活用ガイド](/blog/boshi-techo-guide)」をご覧ください。
 
 妊娠初期の方は、まず「[妊娠初診はいつ行く？産婦人科の選び方](/blog/ninshin-shoshin-guide)」や「[妊娠初期に食べてはいけないもの一覧](/blog/ninshin-shoki-tabemono)」もチェックしてみてください。
+
+## あわせて読みたい
+
+- [【2026年新基準】妊娠中の体重増加の目安｜BMI別の管理法と注意点](/ninshin-taijuu-kanri/)
+- [マタニティウェアおすすめブランド比較｜おしゃれ＆コスパ重視](/maternity-wear-hikaku/)
+- [安定期の過ごし方｜妊娠中期にやっておくべきこと10選](/antei-ki-sugoshikata/)

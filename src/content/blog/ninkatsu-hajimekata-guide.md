@@ -178,3 +178,9 @@ affiliate:
 妊娠検査薬で陽性が出た方は、「[妊娠検査薬の正しい使い方と選び方](/blog/ninshin-kensayaku-tsukaikata)」で正確な使い方を確認してください。また、妊娠がわかったら「[妊娠初診はいつ行く？産婦人科の選び方](/blog/ninshin-shoshin-guide)」もあわせてご覧ください。
 
 妊娠初期に気をつけるべき食事については「[妊娠初期に食べてはいけないもの一覧](/blog/ninshin-shoki-tabemono)」で詳しくまとめています。
+
+## あわせて読みたい
+
+- [【管理栄養士監修】妊活中に摂りたい栄養素と食事メニュー完全ガイド](/ninkatsu-eiyou-shokuji/)
+- [【2026年】不妊治療ステップアップの判断基準と費用を徹底解説](/funin-chiryou-step-up/)
+- [妊活中に友人の妊娠を喜べない自分は変？複雑な感情との向き合い方](/ninshin-yorokobenai/)
