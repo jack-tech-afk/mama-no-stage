@@ -4,6 +4,7 @@ description: "陣痛の種類・兆候・対処法を徹底解説。前駆陣痛
 pubDate: "2026-03-11"
 category: "妊娠後期"
 stage: "trimester-3"
+heroImage: "/images/heroes/hero-trimester-3.png"
 tags: ["陣痛", "前駆陣痛", "本陣痛", "出産", "呼吸法"]
 affiliate:
   - name: "陣痛タイマーアプリ（陣痛きたかも）"

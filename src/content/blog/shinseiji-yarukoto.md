@@ -4,6 +4,7 @@ description: "新生児期はあっという間に過ぎてしまいます。出
 pubDate: "2026-03-11"
 category: "新生児"
 stage: "newborn"
+heroImage: "/images/heroes/hero-newborn.png"
 tags: ["新生児", "出生届", "児童手当", "ニューボーンフォト", "内祝い", "産後手続き", "赤ちゃん保険"]
 affiliate:
   - name: "ニューボーンフォト出張撮影サービス"

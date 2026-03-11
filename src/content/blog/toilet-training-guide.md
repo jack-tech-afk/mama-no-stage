@@ -4,6 +4,7 @@ description: "トイレトレーニングの始め時、ステップ別の進め
 pubDate: "2026-03-11"
 category: "2歳"
 stage: "age-2"
+heroImage: "/images/heroes/hero-age-2.png"
 tags: ["2歳", "トイレトレーニング", "おむつ外し", "トレパン", "補助便座"]
 affiliate:
   - name: "リッチェル ポッティス 補助便座"

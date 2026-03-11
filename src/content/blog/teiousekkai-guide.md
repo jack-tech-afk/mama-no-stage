@@ -4,6 +4,7 @@ description: "帝王切開の準備から術後の回復まで徹底解説。予
 pubDate: "2026-03-11"
 category: "妊娠後期"
 stage: "trimester-3"
+heroImage: "/images/heroes/hero-trimester-3.png"
 tags: ["帝王切開", "出産", "術後ケア", "傷跡ケア", "出産準備"]
 affiliate:
   - name: "犬印本舗 帝王切開用腹帯"

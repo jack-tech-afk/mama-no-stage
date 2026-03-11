@@ -4,6 +4,7 @@ description: "卵子凍結の適切な年齢・費用相場・保管期間・成
 pubDate: "2026-03-11"
 category: "妊活"
 stage: "trying"
+heroImage: "/images/heroes/hero-trying.png"
 tags: ["卵子凍結", "妊活", "費用", "成功率", "助成金", "不妊治療"]
 affiliate:
   - name: "エレビット 葉酸サプリ 30日分"

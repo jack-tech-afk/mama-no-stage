@@ -4,6 +4,7 @@ description: "産後クライシスの原因と対策を徹底解説。パパへ
 pubDate: "2026-03-11"
 category: "新生児"
 stage: "newborn"
+heroImage: "/images/heroes/hero-newborn.png"
 tags: ["産後クライシス", "夫婦関係", "産後", "パパ育児", "メンタルケア", "イライラ"]
 affiliate:
   - name: "産後が始まった！（書籍）"

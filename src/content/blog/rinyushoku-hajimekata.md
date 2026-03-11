@@ -4,6 +4,7 @@ description: "離乳食の始め方を月齢別に徹底解説。初期・中期
 pubDate: "2026-03-11"
 category: "乳児"
 stage: "infant"
+heroImage: "/images/heroes/hero-infant.png"
 tags: ["離乳食", "ベビーフード", "アレルギー", "月齢別", "食材", "離乳食グッズ"]
 affiliate:
   - name: "リッチェル わけわけフリージング ブロックトレー"

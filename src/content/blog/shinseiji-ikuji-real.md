@@ -4,6 +4,7 @@ description: "新生児育児で「こんなはずじゃなかった」と感じ
 pubDate: "2026-03-11"
 category: "新生児"
 stage: "newborn"
+heroImage: "/images/heroes/hero-newborn.png"
 tags: ["新生児育児", "産後", "寝不足", "授乳", "泣き止まない", "新米ママ"]
 affiliate:
   - name: "エルゴベビー ナチュラルカーブ授乳クッション"

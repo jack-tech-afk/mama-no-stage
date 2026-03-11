@@ -4,6 +4,7 @@ description: "妊活中にSNSの妊娠報告や友人の出産がつらいと感
 pubDate: "2026-03-11"
 category: "妊活"
 stage: "trying"
+heroImage: "/images/heroes/hero-trying.png"
 tags: ["妊活", "メンタルケア", "妊娠報告", "SNS", "罪悪感", "不妊治療"]
 affiliate:
   - name: "『妊活に疲れたら読む本』矢沢 透著"

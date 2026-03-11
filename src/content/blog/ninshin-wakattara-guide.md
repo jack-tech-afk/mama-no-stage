@@ -4,6 +4,7 @@ description: "妊娠が判明したら何から始める？妊娠届出・母子
 pubDate: "2026-03-11"
 category: "妊娠初期"
 stage: "trimester-1"
+heroImage: "/images/heroes/hero-trimester-1.png"
 tags: ["妊娠初期", "妊娠届出", "母子手帳", "保険", "職場報告", "出産育児一時金"]
 affiliate:
   - name: "コープデリ 妊婦向け葉酸サプリ 90粒"

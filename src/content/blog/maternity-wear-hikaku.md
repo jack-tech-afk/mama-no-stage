@@ -4,6 +4,7 @@ description: "マタニティウェアの人気ブランドを徹底比較。UNI
 pubDate: "2026-03-11"
 category: "妊娠中期"
 stage: "trimester-2"
+heroImage: "/images/heroes/hero-trimester-2.png"
 tags: ["マタニティウェア", "マタニティファッション", "妊婦服", "ブランド比較"]
 affiliate:
   - name: "Sweet Mommy マタニティワンピース"

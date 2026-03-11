@@ -4,6 +4,7 @@ description: "忙しいママ向け食材宅配サービスを徹底比較。コ
 pubDate: "2026-03-11"
 category: "乳児"
 stage: "infant"
+heroImage: "/images/heroes/hero-infant.png"
 tags: ["食材宅配", "時短", "離乳食", "コープ", "オイシックス"]
 affiliate:
   - name: "オイシックス おためしセット"

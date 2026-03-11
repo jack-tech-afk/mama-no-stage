@@ -4,6 +4,7 @@ description: "離乳食で卵・牛乳・小麦を始める時期と量を徹底
 pubDate: "2026-03-11"
 category: "乳児"
 stage: "infant"
+heroImage: "/images/heroes/hero-infant.png"
 tags: ["離乳食", "アレルギー", "卵", "小麦", "牛乳", "食物アレルギー", "乳児"]
 affiliate:
   - name: "アレルギー対応ベビーフード まつやのおかゆ"

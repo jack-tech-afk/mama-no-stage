@@ -4,6 +4,7 @@ description: "産後の体の変化（悪露・骨盤の歪み・抜け毛・ホ
 pubDate: "2026-03-11"
 category: "新生児"
 stage: "newborn"
+heroImage: "/images/heroes/hero-newborn.png"
 tags: ["産後", "骨盤ケア", "抜け毛", "産後うつ", "産後ダイエット", "メンタルケア"]
 affiliate:
   - name: "トコちゃんベルトII"

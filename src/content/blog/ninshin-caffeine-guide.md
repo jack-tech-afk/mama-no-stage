@@ -4,6 +4,7 @@ description: "妊娠中のカフェイン摂取量の目安をWHO・日本産科
 pubDate: "2026-03-11"
 category: "妊娠初期"
 stage: "trimester-1"
+heroImage: "/images/heroes/hero-trimester-1.png"
 tags: ["妊娠中", "カフェイン", "デカフェ", "妊婦の飲み物", "カフェチェーン"]
 affiliate:
   - name: "UCC おいしいカフェインレスコーヒー ドリップ 18杯"

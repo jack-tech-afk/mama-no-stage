@@ -4,6 +4,7 @@ description: "お宮参りの時期、神社の選び方、赤ちゃん・ママ
 pubDate: "2026-03-11"
 category: "新生児"
 stage: "newborn"
+heroImage: "/images/heroes/hero-newborn.png"
 tags: ["お宮参り", "行事", "新生児", "神社", "写真撮影", "産着"]
 affiliate:
   - name: "スタジオアリス お宮参り撮影プラン"

@@ -4,6 +4,7 @@ description: "妊娠中の涙もろさ・イライラ・不安はホルモンバ
 pubDate: "2026-03-11"
 category: "妊娠初期"
 stage: "trimester-1"
+heroImage: "/images/heroes/hero-trimester-1.png"
 tags: ["マタニティブルー", "妊娠中の情緒不安定", "産前うつ", "妊婦のメンタルヘルス", "セルフケア"]
 affiliate:
   - name: "KLIPPAN オーガニックアロマオイル ラベンダー 10ml"

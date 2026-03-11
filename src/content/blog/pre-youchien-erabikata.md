@@ -4,6 +4,7 @@ description: "プレ幼稚園の探し方・申し込み時期・見学チェッ
 pubDate: "2026-03-11"
 category: "3歳"
 stage: "age-3"
+heroImage: "/images/heroes/hero-age-3.png"
 tags: ["3歳", "プレ幼稚園", "幼稚園選び", "入園準備", "認定こども園"]
 affiliate:
   - name: "お名前シール 防水タイプ 300枚セット"

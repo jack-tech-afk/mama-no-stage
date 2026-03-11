@@ -4,6 +4,7 @@ description: "産後に急な吐き気・めまい・冷や汗が起きる原因
 pubDate: "2026-03-11"
 category: "新生児"
 stage: "newborn"
+heroImage: "/images/heroes/hero-newborn.png"
 tags: ["産後", "自律神経", "体調不良", "めまい", "吐き気", "ホルモンバランス", "漢方"]
 affiliate:
   - name: "命の母ホワイト（小林製薬）"

@@ -4,6 +4,7 @@ description: "安産のためにできる準備を助産師監修で徹底解説
 pubDate: "2026-03-11"
 category: "妊娠中期"
 stage: "trimester-2"
+heroImage: "/images/heroes/hero-trimester-2.png"
 tags: ["安産", "マタニティエクササイズ", "呼吸法", "会陰マッサージ", "バースプラン"]
 affiliate:
   - name: "プリマスター マタニティヨガマット"

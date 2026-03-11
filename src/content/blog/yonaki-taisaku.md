@@ -4,6 +4,7 @@ description: "赤ちゃんの夜泣きの原因を月齢別に解説。ホワイ
 pubDate: "2026-03-11"
 category: "乳児"
 stage: "infant"
+heroImage: "/images/heroes/hero-infant.png"
 tags: ["夜泣き", "ねんねトレーニング", "ホワイトノイズ", "おくるみ", "睡眠", "乳児"]
 affiliate:
   - name: "おやすみたまご"

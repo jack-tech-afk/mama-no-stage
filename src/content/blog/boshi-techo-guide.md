@@ -4,6 +4,7 @@ description: "母子手帳はいつ・どこでもらえる？受け取り時期
 pubDate: "2026-03-11"
 category: "妊娠初期"
 stage: "trimester-1"
+heroImage: "/images/heroes/hero-trimester-1.png"
 tags: ["母子手帳", "妊娠届", "自治体手続き", "妊娠初期", "マタニティ"]
 affiliate:
   - name: "母子手帳ケース（ジェラートピケ）"

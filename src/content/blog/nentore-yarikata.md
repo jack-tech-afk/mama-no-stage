@@ -4,6 +4,7 @@ description: "ネントレ（ねんねトレーニング）の開始時期は生
 pubDate: "2026-03-11"
 category: "乳児"
 stage: "infant"
+heroImage: "/images/heroes/hero-infant.png"
 tags: ["ネントレ", "寝かしつけ", "ベビーモニター", "ホワイトノイズ", "遮光カーテン", "乳児", "睡眠"]
 affiliate:
   - name: "パナソニック ベビーモニター KX-HBC200"

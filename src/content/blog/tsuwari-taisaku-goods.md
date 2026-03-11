@@ -4,6 +4,7 @@ description: "先輩ママの体験談をもとに、つわり対策グッズお
 pubDate: "2026-03-11"
 category: "妊娠初期"
 stage: "trimester-1"
+heroImage: "/images/heroes/hero-trimester-1.png"
 tags: ["つわり", "つわり対策", "マタニティグッズ", "妊娠初期", "つわりバンド"]
 affiliate:
   - name: "Sea-Band つわり対策バンド"

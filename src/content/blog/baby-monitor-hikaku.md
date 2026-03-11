@@ -4,6 +4,7 @@ description: "ベビーモニターのおすすめ5製品を徹底比較。Wi-Fi
 pubDate: "2026-03-11"
 category: "新生児"
 stage: "newborn"
+heroImage: "/images/heroes/hero-newborn.png"
 tags: ["ベビーモニター", "見守りカメラ", "新生児", "育児グッズ", "比較"]
 affiliate:
   - name: "パナソニック ベビーモニター KX-HBC200"

@@ -4,6 +4,7 @@ description: "赤ちゃんが泣くのは空腹の最終サイン。口をパク
 pubDate: "2026-03-11"
 category: "新生児"
 stage: "newborn"
+heroImage: "/images/heroes/hero-newborn.png"
 tags: ["空腹サイン", "授乳", "ミルク", "新生児", "哺乳瓶", "授乳クッション", "母乳"]
 affiliate:
   - name: "ピジョン 母乳実感哺乳瓶"

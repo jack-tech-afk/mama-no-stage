@@ -4,6 +4,7 @@ description: "母乳が出にくいと悩むママへ。混合育児でのミル
 pubDate: "2026-03-11"
 category: "新生児"
 stage: "newborn"
+heroImage: "/images/heroes/hero-newborn.png"
 tags: ["母乳", "混合育児", "ミルク", "搾乳機", "母乳が出ない", "哺乳瓶", "母乳パッド"]
 affiliate:
   - name: "メデラ スイング・マキシフレックス電動搾乳機"

@@ -4,6 +4,7 @@ description: "産後うつの症状チェックをエジンバラ産後うつ質
 pubDate: "2026-03-11"
 category: "新生児"
 stage: "newborn"
+heroImage: "/images/heroes/hero-newborn.png"
 tags: ["産後うつ", "エジンバラ", "EPDS", "マタニティブルー", "産後メンタルヘルス", "セルフチェック"]
 affiliate:
   - name: "産後うつからの回復ガイドブック"

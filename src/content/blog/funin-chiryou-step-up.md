@@ -4,6 +4,7 @@ description: "タイミング法→人工授精→体外受精のステップア
 pubDate: "2026-03-11"
 category: "妊活"
 stage: "trying"
+heroImage: "/images/heroes/hero-trying.png"
 tags: ["不妊治療", "ステップアップ", "体外受精", "人工授精", "保険適用", "PGT-A"]
 affiliate:
   - name: "エレビット 葉酸サプリ 30日分"

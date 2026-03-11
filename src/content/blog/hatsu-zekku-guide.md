@@ -4,6 +4,7 @@ description: "初節句のお祝い方法を男の子・女の子別に徹底解
 pubDate: "2026-03-11"
 category: "乳児"
 stage: "infant"
+heroImage: "/images/heroes/hero-infant.png"
 tags: ["初節句", "行事", "雛人形", "兜飾り", "お祝い", "乳児"]
 affiliate:
   - name: "久月 兜飾り コンパクト収納飾り"

@@ -4,6 +4,7 @@ description: "母乳・ミルク・混合育児のメリット・デメリット
 pubDate: "2026-03-11"
 category: "新生児"
 stage: "newborn"
+heroImage: "/images/heroes/hero-newborn.png"
 tags: ["授乳", "母乳", "ミルク", "混合育児", "粉ミルク", "哺乳瓶"]
 affiliate:
   - name: "明治ほほえみ らくらくキューブ"

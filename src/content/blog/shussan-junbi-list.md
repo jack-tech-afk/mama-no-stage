@@ -4,6 +4,7 @@ description: "出産準備で本当に必要なものを厳選リスト化。入
 pubDate: "2026-03-11"
 category: "妊娠後期"
 stage: "trimester-3"
+heroImage: "/images/heroes/hero-trimester-3.png"
 tags: ["出産準備", "入院バッグ", "ベビー用品", "出産準備リスト"]
 affiliate:
   - name: "コンビ ベビーカー スゴカルSwitch"

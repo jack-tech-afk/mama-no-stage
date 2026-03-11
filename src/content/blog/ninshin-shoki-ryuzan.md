@@ -4,6 +4,7 @@ description: "妊娠初期の流産は全妊娠の約15%。原因の多くは染
 pubDate: "2026-03-11"
 category: "妊娠初期"
 stage: "trimester-1"
+heroImage: "/images/heroes/hero-trimester-1.png"
 tags: ["妊娠初期", "流産", "切迫流産", "妊娠初期の出血", "安静"]
 affiliate:
   - name: "エレビット 葉酸サプリ 30日分"

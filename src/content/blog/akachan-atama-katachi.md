@@ -4,6 +4,7 @@ description: "赤ちゃんの頭の形が歪む原因と対策を解説。向き
 pubDate: "2026-03-11"
 category: "新生児"
 stage: "newborn"
+heroImage: "/images/heroes/hero-newborn.png"
 tags: ["頭の形", "向き癖", "ヘルメット治療", "スターバンド", "アイメット", "絶壁"]
 affiliate:
   - name: "エスメラルダ ドーナツ枕"

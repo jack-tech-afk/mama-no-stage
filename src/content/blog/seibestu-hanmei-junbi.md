@@ -4,6 +4,7 @@ description: "赤ちゃんの性別がわかる時期やエコーでの見分け
 pubDate: "2026-03-11"
 category: "妊娠中期"
 stage: "trimester-2"
+heroImage: "/images/heroes/hero-trimester-2.png"
 tags: ["性別判明", "男の子", "女の子", "名付け", "ベビー用品"]
 affiliate:
   - name: "たまひよ 赤ちゃんのしあわせ名前事典"

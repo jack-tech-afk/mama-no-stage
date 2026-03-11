@@ -4,6 +4,7 @@ description: "妊娠初期の仕事を休みたいときに使える制度を徹
 pubDate: "2026-03-11"
 category: "妊娠初期"
 stage: "trimester-1"
+heroImage: "/images/heroes/hero-trimester-1.png"
 tags: ["妊娠初期", "仕事", "休職", "時短勤務", "母性健康管理", "傷病手当金", "マタニティ"]
 affiliate:
   - name: "犬印本舗 マタニティパンツ 2枚セット"

@@ -4,6 +4,7 @@ description: "不妊治療のストレスはがん治療に匹敵するとも言
 pubDate: "2026-03-11"
 category: "妊活"
 stage: "trying"
+heroImage: "/images/heroes/hero-trying.png"
 tags: ["妊活", "メンタルケア", "不妊治療", "ストレス", "カウンセリング", "妊活疲れ"]
 affiliate:
   - name: "ヨガマット＋リラクゼーションセット"

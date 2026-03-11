@@ -4,6 +4,7 @@ description: "出産費用の平均相場と使える制度を徹底解説。出
 pubDate: "2026-03-11"
 category: "妊娠後期"
 stage: "trimester-3"
+heroImage: "/images/heroes/hero-trimester-3.png"
 tags: ["出産費用", "出産育児一時金", "医療費控除", "助成金", "給付金"]
 affiliate:
   - name: "ゼクシィBaby 妊婦のための本"

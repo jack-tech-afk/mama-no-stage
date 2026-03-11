@@ -4,6 +4,7 @@ description: "妊活を始めたい方へ。基礎体温の測り方・排卵検
 pubDate: "2026-03-11"
 category: "妊活"
 stage: "trying"
+heroImage: "/images/heroes/hero-trying.png"
 tags: ["妊活", "基礎体温", "葉酸サプリ", "排卵検査薬", "妊活準備"]
 affiliate:
   - name: "エレビット 葉酸サプリ 30日分"

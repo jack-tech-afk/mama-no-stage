@@ -4,6 +4,7 @@ description: "小学生向けオンライン学習教材を徹底比較。スマ
 pubDate: "2026-03-11"
 category: "小学生"
 stage: "elementary"
+heroImage: "/images/heroes/hero-elementary.png"
 tags: ["オンライン学習", "小学生", "通信教育", "タブレット学習", "比較"]
 affiliate:
   - name: "スマイルゼミ"

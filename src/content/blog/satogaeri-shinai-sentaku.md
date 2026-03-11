@@ -4,6 +4,7 @@ description: "里帰り出産しないで自宅で産後を過ごすメリット
 pubDate: "2026-03-11"
 category: "妊娠後期"
 stage: "trimester-3"
+heroImage: "/images/heroes/hero-trimester-3.png"
 tags: ["里帰り出産", "里帰りしない", "産後サポート", "育休", "食材宅配", "産後ケア"]
 affiliate:
   - name: "オイシックス おためしセット"

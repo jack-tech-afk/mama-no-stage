@@ -4,6 +4,7 @@ description: "出産入院バッグの中身を完全リスト化。陣痛バッ
 pubDate: "2026-03-11"
 category: "妊娠後期"
 stage: "trimester-3"
+heroImage: "/images/heroes/hero-trimester-3.png"
 tags: ["入院バッグ", "出産準備", "陣痛バッグ", "入院持ち物", "マタニティ"]
 affiliate:
   - name: "犬印本舗 入院準備セット"

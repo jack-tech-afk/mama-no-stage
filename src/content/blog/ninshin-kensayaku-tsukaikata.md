@@ -4,6 +4,7 @@ description: "妊娠検査薬の正しい使い方・フライング検査のタ
 pubDate: "2026-03-11"
 category: "妊活"
 stage: "trying"
+heroImage: "/images/heroes/hero-trying.png"
 tags: ["妊娠検査薬", "フライング検査", "妊活", "妊娠判定"]
 affiliate:
   - name: "クリアブルー 妊娠検査薬 2回用"

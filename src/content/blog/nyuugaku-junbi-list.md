@@ -4,6 +4,7 @@ description: "小学校入学に必要なものを完全リスト化。文房具
 pubDate: "2026-03-11"
 category: "4-6歳"
 stage: "preschool"
+heroImage: "/images/heroes/hero-preschool.png"
 tags: ["入学準備", "小学校", "文房具", "名前つけ", "入学式"]
 affiliate:
   - name: "お名前シール工場"
