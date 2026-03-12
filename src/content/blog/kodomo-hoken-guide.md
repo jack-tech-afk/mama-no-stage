@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-3.png"
 tags: ["学資保険", "医療保険", "子ども", "NISA", "お金"]
 affiliate:
   - name: "保険見直しラボ"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E4%25BF%259D%25E9%2599%25BA%25E8%25A6%258B%25E7%259B%25B4%25E3%2581%2597%25E3%2583%25A9%25E3%2583%259C%2F"
     price: "無料相談"
     description: "経験豊富なFPに無料で保険相談。学資保険・医療保険の最適プランを提案"
   - name: "ほけんの窓口"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%25BB%25E3%2581%2591%25E3%2582%2593%25E3%2581%25AE%25E7%25AA%2593%25E5%258F%25A3%2F"
     price: "無料相談"
     description: "全国に700店舗以上。複数社の保険を比較して最適なプランを見つけられる"
   - name: "ソニー生命 学資保険"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25BD%25E3%2583%258B%25E3%2583%25BC%25E7%2594%259F%25E5%2591%25BD%2520%25E5%25AD%25A6%25E8%25B3%2587%25E4%25BF%259D%25E9%2599%25BA%2F"
     price: "月額約10,000円〜"
     description: "返戻率の高さで人気No.1の学資保険。教育資金の計画的な準備に"
 ---

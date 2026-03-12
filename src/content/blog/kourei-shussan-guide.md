@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-3.png"
 tags: ["高齢出産", "35歳以上", "出生前診断", "NIPT", "妊娠高血圧症候群", "染色体異常", "葉酸"]
 affiliate:
   - name: "産婦人科医ママの妊娠・出産パーフェクトBOOK"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E7%2594%25A3%25E5%25A9%25A6%25E4%25BA%25BA%25E7%25A7%2591%25E5%258C%25BB%25E3%2583%259E%25E3%2583%259E%25E3%2581%25AE%25E5%25A6%258A%25E5%25A8%25A0%25E3%2583%25BB%25E5%2587%25BA%25E7%2594%25A3%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588BOOK%2F"
     price: "約1,650円"
     description: "現役産婦人科医が妊娠・出産の不安に寄り添う一冊。高齢出産についても詳しく解説"
   - name: "ベルタ葉酸マカプラス"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25BF%25E8%2591%2589%25E9%2585%25B8%25E3%2583%259E%25E3%2582%25AB%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B9%2F"
     price: "初回1,980円/月"
     description: "葉酸480μg配合の妊活〜妊娠中サプリ。マカ・亜鉛も配合でママの体づくりをサポート"
   - name: "mitete 葉酸サプリ（AFC）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmitete%2520%25E8%2591%2589%25E9%2585%25B8%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%2520AFC%2F"
     price: "約1,944円/月"
     description: "モノグルタミン酸型葉酸400μg配合。GMP認定工場で製造、口コミ評価も高い"
 ---

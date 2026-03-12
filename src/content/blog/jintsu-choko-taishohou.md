@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-trimester-3.png"
 tags: ["陣痛", "前駆陣痛", "本陣痛", "出産", "呼吸法"]
 affiliate:
   - name: "陣痛タイマーアプリ（陣痛きたかも）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E9%2599%25A3%25E7%2597%259B%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%2520%25E9%2599%25A3%25E7%2597%259B%25E3%2581%258D%25E3%2581%259F%25E3%2581%258B%25E3%2582%2582%2F"
     price: "無料"
     description: "ワンタップで陣痛間隔を記録できる定番アプリ"
   - name: "テニスボール 2個セット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2586%25E3%2583%258B%25E3%2582%25B9%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25202%25E5%2580%258B%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F"
     price: "約500〜1,000円"
     description: "陣痛時の腰痛緩和に必須のセルフケアグッズ"
 ---

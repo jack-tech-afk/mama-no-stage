@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-newborn.png"
 tags: ["授乳", "母乳", "ミルク", "混合育児", "粉ミルク", "哺乳瓶"]
 affiliate:
   - name: "明治ほほえみ らくらくキューブ"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%2598%258E%25E6%25B2%25BB%25E3%2581%25BB%25E3%2581%25BB%25E3%2581%2588%25E3%2581%25BF%2520%25E3%2582%2589%25E3%2581%258F%25E3%2582%2589%25E3%2581%258F%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2596%2F"
     price: "約2,500円（48袋入り）"
     description: "キューブタイプで計量不要。外出先でも簡単に調乳できる人気の粉ミルク"
   - name: "ピジョン 母乳実感 哺乳びん"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2594%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%25B3%2520%25E6%25AF%258D%25E4%25B9%25B3%25E5%25AE%259F%25E6%2584%259F%2520%25E5%2593%25BA%25E4%25B9%25B3%25E3%2581%25B3%25E3%2582%2593%2F"
     price: "約1,800円"
     description: "母乳との併用に最適。赤ちゃんが自然に飲める乳首設計"
 ---

@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-newborn.png"
 tags: ["産後うつ", "エジンバラ", "EPDS", "マタニティブルー", "産後メンタルヘルス", "セルフチェック"]
 affiliate:
   - name: "産後うつからの回復ガイドブック"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E7%2594%25A3%25E5%25BE%258C%25E3%2581%2586%25E3%2581%25A4%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AE%25E5%259B%259E%25E5%25BE%25A9%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%2F"
     price: "約1,760円"
     description: "産後うつを経験した著者による回復の実体験と専門家のアドバイスを収録"
   - name: "無印良品 超音波アロマディフューザー"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E7%2584%25A1%25E5%258D%25B0%25E8%2589%25AF%25E5%2593%2581%2520%25E8%25B6%2585%25E9%259F%25B3%25E6%25B3%25A2%25E3%2582%25A2%25E3%2583%25AD%25E3%2583%259E%25E3%2583%2587%25E3%2582%25A3%25E3%2583%2595%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%2F"
     price: "約3,990円"
     description: "やさしいミストとアロマの香りでリラックス空間を演出。産後のストレスケアに"
   - name: "ニールズヤード リラクゼーションブレンド精油"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%258B%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%25BA%25E3%2583%25A4%25E3%2583%25BC%25E3%2583%2589%2520%25E3%2583%25AA%25E3%2583%25A9%25E3%2582%25AF%25E3%2582%25BC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E7%25B2%25BE%25E6%25B2%25B9%2F"
     price: "約2,860円"
     description: "ラベンダー・ゼラニウム配合のリラックスアロマ。安眠サポートにもおすすめ"
 ---

@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-1.png"
 tags: ["妊娠中", "カフェイン", "デカフェ", "妊婦の飲み物", "カフェチェーン"]
 affiliate:
   - name: "UCC おいしいカフェインレスコーヒー ドリップ 18杯"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUCC%2520%25E3%2581%258A%25E3%2581%2584%25E3%2581%2597%25E3%2581%2584%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%252018%25E6%259D%25AF%2F"
     price: "約780円"
     description: "カフェイン97%カット。妊婦さんに人気のドリップコーヒー。本格的な味わいを自宅で"
   - name: "伊藤園 ヘルシールイボスティー ティーバッグ 60袋"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E4%25BC%258A%25E8%2597%25A4%25E5%259C%2592%2520%25E3%2583%2598%25E3%2583%25AB%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%25A4%25E3%2583%259C%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%2520%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%252060%25E8%25A2%258B%2F"
     price: "約650円"
     description: "ノンカフェインでミネラル豊富。妊娠中の水分補給にぴったりのルイボスティー"
   - name: "クライス カフェインレスコーヒー 100g"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25B9%2520%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520100g%2F"
     price: "約860円"
     description: "カフェイン99.7%除去。インスタントで手軽にカフェインレスコーヒーが楽しめる"
 ---

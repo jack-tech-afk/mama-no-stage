@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trying.png"
 tags: ["妊娠検査薬", "フライング検査", "妊活", "妊娠判定"]
 affiliate:
   - name: "クリアブルー 妊娠検査薬 2回用"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AF%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%2520%25E5%25A6%258A%25E5%25A8%25A0%25E6%25A4%259C%25E6%259F%25BB%25E8%2596%25AC%25202%25E5%259B%259E%25E7%2594%25A8%2F"
     price: "約800円"
     description: "世界シェアNo.1の妊娠検査薬。判定窓が見やすく初めてでも使いやすい"
   - name: "ドゥーテスト・hCGa 2回用"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2589%25E3%2582%25A5%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25BBhCGa%25202%25E5%259B%259E%25E7%2594%25A8%2F"
     price: "約700円"
     description: "ロート製薬の高感度検査薬。朝昼晩いつでも検査可能"
   - name: "チェックワン 2回用"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AF%25E3%2583%25B3%25202%25E5%259B%259E%25E7%2594%25A8%2F"
     price: "約750円"
     description: "判定結果が消えずに残るので、パートナーへの報告にも便利"
 ---

@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-1.png"
 tags: ["出生前診断", "NIPT", "羊水検査", "絨毛検査", "クアトロテスト", "コンバインド検査", "妊娠初期"]
 affiliate:
   - name: "産婦人科医ママの妊娠・出産パーフェクトBOOK"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E7%2594%25A3%25E5%25A9%25A6%25E4%25BA%25BA%25E7%25A7%2591%25E5%258C%25BB%25E3%2583%259E%25E3%2583%259E%25E3%2581%25AE%25E5%25A6%258A%25E5%25A8%25A0%25E3%2583%25BB%25E5%2587%25BA%25E7%2594%25A3%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588BOOK%2F"
     price: "約1,650円"
     description: "現役産婦人科医が出生前診断の選び方まで詳しく解説。不安なママに寄り添う一冊"
   - name: "ベルタ葉酸マカプラス"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25BF%25E8%2591%2589%25E9%2585%25B8%25E3%2583%259E%25E3%2582%25AB%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B9%2F"
     price: "初回1,980円/月"
     description: "葉酸480μg配合。妊娠初期に欠かせない栄養素をしっかりサポート"
   - name: "はじめてのママ＆パパの妊娠・出産（主婦の友社）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%25A6%25E3%2581%25AE%25E3%2583%259E%25E3%2583%259E%25EF%25BC%2586%25E3%2583%2591%25E3%2583%2591%25E3%2581%25AE%25E5%25A6%258A%25E5%25A8%25A0%25E3%2583%25BB%25E5%2587%25BA%25E7%2594%25A3%2520%25E4%25B8%25BB%25E5%25A9%25A6%25E3%2581%25AE%25E5%258F%258B%25E7%25A4%25BE%2F"
     price: "約1,430円"
     description: "妊娠判明から出産まで週数別にわかる。出生前診断の基礎知識もカバー"
 ---

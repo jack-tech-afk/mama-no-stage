@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-age-1.png"
 tags: ["1歳", "断乳", "卒乳", "夜間断乳", "母乳育児"]
 affiliate:
   - name: "ピジョン 母乳実感 哺乳びん"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2594%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%25B3%2520%25E6%25AF%258D%25E4%25B9%25B3%25E5%25AE%259F%25E6%2584%259F%2520%25E5%2593%25BA%25E4%25B9%25B3%25E3%2581%25B3%25E3%2582%2593%2F"
     price: "¥1,980"
     description: "母乳との併用に最適な哺乳びん"
   - name: "カネソン ママニパシェル"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AB%25E3%2583%258D%25E3%2582%25BD%25E3%2583%25B3%2520%25E3%2583%259E%25E3%2583%259E%25E3%2583%258B%25E3%2583%2591%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25AB%2F"
     price: "¥1,650"
     description: "断乳時のおっぱいケアに便利な搾乳カップ"
   - name: "リッチェル アクリア コップでマグ"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2581%25E3%2582%25A7%25E3%2583%25AB%2520%25E3%2582%25A2%25E3%2582%25AF%25E3%2583%25AA%25E3%2582%25A2%2520%25E3%2582%25B3%25E3%2583%2583%25E3%2583%2597%25E3%2581%25A7%25E3%2583%259E%25E3%2582%25B0%2F"
     price: "¥1,320"
     description: "断乳後の水分補給トレーニングに最適なマグ"
 ---

@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-1.png"
 tags: ["マタニティブルー", "妊娠中の情緒不安定", "産前うつ", "妊婦のメンタルヘルス", "セルフケア"]
 affiliate:
   - name: "KLIPPAN オーガニックアロマオイル ラベンダー 10ml"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKLIPPAN%2520%25E3%2582%25AA%25E3%2583%25BC%25E3%2582%25AC%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A2%25E3%2583%25AD%25E3%2583%259E%25E3%2582%25AA%25E3%2582%25A4%25E3%2583%25AB%2520%25E3%2583%25A9%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC%252010ml%2F"
     price: "約2,200円"
     description: "オーガニック認証のラベンダー精油。妊婦さんも使える安心品質でリラックスタイムに"
   - name: "SHIRO ホワイトティー ボディミルク 195g"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSHIRO%2520%25E3%2583%259B%25E3%2583%25AF%25E3%2582%25A4%25E3%2583%2588%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%2520%25E3%2583%259C%25E3%2583%2587%25E3%2582%25A3%25E3%2583%259F%25E3%2583%25AB%25E3%2582%25AF%2520195g%2F"
     price: "約4,180円"
     description: "ほのかな香りでリラックス。乾燥しがちな妊娠中の肌ケアにも"
   - name: "めぐりズム 蒸気でホットアイマスク 12枚入"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%2581%25E3%2581%2590%25E3%2582%258A%25E3%2582%25BA%25E3%2583%25A0%2520%25E8%2592%25B8%25E6%25B0%2597%25E3%2581%25A7%25E3%2583%259B%25E3%2583%2583%25E3%2583%2588%25E3%2582%25A2%25E3%2582%25A4%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25AF%252012%25E6%259E%259A%25E5%2585%25A5%2F"
     price: "約980円"
     description: "約40度の蒸気で目元を温めてリラックス。就寝前のセルフケアに最適"
 ---

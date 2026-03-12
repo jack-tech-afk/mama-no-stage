@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-infant.png"
 tags: ["初節句", "行事", "雛人形", "兜飾り", "お祝い", "乳児"]
 affiliate:
   - name: "久月 兜飾り コンパクト収納飾り"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E4%25B9%2585%25E6%259C%2588%2520%25E5%2585%259C%25E9%25A3%25BE%25E3%2582%258A%2520%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2591%25E3%2582%25AF%25E3%2583%2588%25E5%258F%258E%25E7%25B4%258D%25E9%25A3%25BE%25E3%2582%258A%2F"
     price: "約50,000円〜"
     description: "老舗ブランドのコンパクト兜飾り。収納箱にすべて収まる省スペース設計"
   - name: "ふらここ 雛人形 木目込み親王飾り"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%25B5%25E3%2582%2589%25E3%2581%2593%25E3%2581%2593%2520%25E9%259B%259B%25E4%25BA%25BA%25E5%25BD%25A2%2520%25E6%259C%25A8%25E7%259B%25AE%25E8%25BE%25BC%25E3%2581%25BF%25E8%25A6%25AA%25E7%258E%258B%25E9%25A3%25BE%25E3%2582%258A%2F"
     price: "約80,000円〜"
     description: "赤ちゃん顔の可愛らしい木目込み雛人形。コンパクトでモダンなデザインが人気"
 ---

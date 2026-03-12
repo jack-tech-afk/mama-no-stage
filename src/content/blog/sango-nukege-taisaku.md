@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-infant.png"
 tags: ["産後", "抜け毛", "育毛シャンプー", "産後ケア", "ヘアケア", "女性用育毛", "頭皮マッサージ"]
 affiliate:
   - name: "スカルプD ボーテ 薬用スカルプシャンプー"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B9%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2597D%2520%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2586%2520%25E8%2596%25AC%25E7%2594%25A8%25E3%2582%25B9%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2597%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25BC%2F"
     price: "約3,973円"
     description: "女性用の薬用育毛シャンプー。頭皮環境を整えてハリ・コシのある髪へ。産後ママにも人気"
   - name: "エレビット 産後ヘアケアサプリ"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%25AC%25E3%2583%2593%25E3%2583%2583%25E3%2583%2588%2520%25E7%2594%25A3%25E5%25BE%258C%25E3%2583%2598%25E3%2582%25A2%25E3%2582%25B1%25E3%2582%25A2%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%2F"
     price: "約4,050円（30日分）"
     description: "ビオチン・亜鉛・鉄分など髪に必要な栄養素をバランスよく配合。授乳中も飲めるサプリ"
   - name: "リファ グレイスヘッドスパ"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AA%25E3%2583%2595%25E3%2582%25A1%2520%25E3%2582%25B0%25E3%2583%25AC%25E3%2582%25A4%25E3%2582%25B9%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25B9%25E3%2583%2591%2F"
     price: "約32,780円"
     description: "エステのような頭皮マッサージを自宅で。血行促進でヘアケアとリラックスを同時に"
 ---

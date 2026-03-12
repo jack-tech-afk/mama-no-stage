@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-trimester-2.png"
 tags: ["性別判明", "男の子", "女の子", "名付け", "ベビー用品"]
 affiliate:
   - name: "たまひよ 赤ちゃんのしあわせ名前事典"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%259F%25E3%2581%25BE%25E3%2581%25B2%25E3%2582%2588%2520%25E8%25B5%25A4%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%25E3%2581%25AE%25E3%2581%2597%25E3%2581%2582%25E3%2582%258F%25E3%2581%259B%25E5%2590%258D%25E5%2589%258D%25E4%25BA%258B%25E5%2585%25B8%2F"
     price: "約1,800円"
     description: "名前ランキング＆画数診断付きの名付け事典"
   - name: "ジェンダーリビール バルーンセット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC%25E3%2583%25AA%25E3%2583%2593%25E3%2583%25BC%25E3%2583%25AB%2520%25E3%2583%2590%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F"
     price: "約2,000〜3,000円"
     description: "割ると紙吹雪が飛び出すサプライズバルーン"
 ---

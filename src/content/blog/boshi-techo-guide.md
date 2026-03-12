@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-1.png"
 tags: ["母子手帳", "妊娠届", "自治体手続き", "妊娠初期", "マタニティ"]
 affiliate:
   - name: "母子手帳ケース（ジェラートピケ）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%25AF%258D%25E5%25AD%2590%25E6%2589%258B%25E5%25B8%25B3%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2594%25E3%2582%25B1%2F"
     price: "約3,800円"
     description: "人気ブランドの蛇腹式ケース。診察券・保険証・エコー写真も収納可能"
   - name: "母子手帳ケース（ハンナフラ）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%25AF%258D%25E5%25AD%2590%25E6%2589%258B%25E5%25B8%25B3%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%2520%25E3%2583%258F%25E3%2583%25B3%25E3%2583%258A%25E3%2583%2595%25E3%2583%25A9%2F"
     price: "約3,300円"
     description: "マルチケースとしても使える大容量タイプ。双子にも対応"
   - name: "マタニティダイアリー（ミドリ）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2582%25BF%25E3%2583%258B%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2580%25E3%2582%25A4%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25BC%2520%25E3%2583%259F%25E3%2583%2589%25E3%2583%25AA%2F"
     price: "約1,760円"
     description: "妊娠がわかった日から出産まで記録できるダイアリー。エコー写真ポケット付き"
 ---

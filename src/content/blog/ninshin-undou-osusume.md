@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-2.png"
 tags: ["妊娠中の運動", "マタニティヨガ", "マタニティスイミング", "安産", "妊娠中期"]
 affiliate:
   - name: "マタニティヨガDVD付きBOOK"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2582%25BF%25E3%2583%258B%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25A8%25E3%2582%25ACDVD%25E4%25BB%2598%25E3%2581%258DBOOK%2F"
     price: "約1,760円"
     description: "自宅でできるマタニティヨガDVD付き。初心者でも安心のプログラム"
   - name: "SOELU（ソエル）オンラインヨガ"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSOELU%2520%25E3%2582%25BD%25E3%2582%25A8%25E3%2583%25AB%2520%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25A8%25E3%2582%25AC%2F"
     price: "月額1,078円〜"
     description: "マタニティヨガのライブレッスンあり。自宅で好きな時間にプロの指導を受けられる"
   - name: "ヨガマット 10mm厚"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A8%25E3%2582%25AC%25E3%2583%259E%25E3%2583%2583%25E3%2583%2588%252010mm%25E5%258E%259A%2F"
     price: "約2,480円"
     description: "厚手10mmでお腹が大きくても快適。滑りにくく膝にも優しいヨガマット"
 ---

@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-elementary.png"
 tags: ["オンライン学習", "小学生", "通信教育", "タブレット学習", "比較"]
 affiliate:
   - name: "スマイルゼミ"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B9%25E3%2583%259E%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%25BC%25E3%2583%259F%2F"
     price: "月額3,278円〜"
     description: "タブレット1台で全教科学べる。書く学びにこだわったタッチペン学習"
   - name: "進研ゼミ小学講座"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E9%2580%25B2%25E7%25A0%2594%25E3%2582%25BC%25E3%2583%259F%25E5%25B0%258F%25E5%25AD%25A6%25E8%25AC%259B%25E5%25BA%25A7%2F"
     price: "月額3,250円〜"
     description: "チャレンジタッチ・紙教材から選べる。赤ペン先生の添削で確実に力がつく"
   - name: "Z会小学生コース"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FZ%25E4%25BC%259A%25E5%25B0%258F%25E5%25AD%25A6%25E7%2594%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2582%25B9%2F"
     price: "月額3,570円〜"
     description: "良問・難問が特徴の思考力重視教材。中学受験対策にも対応"
 ---

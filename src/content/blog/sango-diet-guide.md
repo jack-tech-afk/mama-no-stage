@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-newborn.png"
 tags: ["産後ダイエット", "産後の体型戻し", "骨盤矯正", "産後ケア"]
 affiliate:
   - name: "ワコール 産後用骨盤ベルト"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AF%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%25AB%2520%25E7%2594%25A3%25E5%25BE%258C%25E7%2594%25A8%25E9%25AA%25A8%25E7%259B%25A4%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588%2F"
     price: "約5,500円"
     description: "産婦人科でも推奨される骨盤ベルト。産後すぐから使えて骨盤をしっかりサポート"
   - name: "nosh（ナッシュ）宅配弁当"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fnosh%2520%25E3%2583%258A%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%2520%25E5%25AE%2585%25E9%2585%258D%25E5%25BC%2581%25E5%25BD%2593%2F"
     price: "1食599円〜"
     description: "糖質30g以下の宅配弁当。産後の忙しいママでも手軽に栄養バランスの取れた食事が可能"
   - name: "LEAN BODY（リーンボディ）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLEAN%2520BODY%2520%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2583%259C%25E3%2583%2587%25E3%2582%25A3%2F"
     price: "月額980円〜"
     description: "自宅でできるフィットネス動画。産後ヨガ・骨盤矯正プログラムも充実"
 ---

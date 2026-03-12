@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-trimester-3.png"
 tags: ["出産費用", "出産育児一時金", "医療費控除", "助成金", "給付金"]
 affiliate:
   - name: "ゼクシィBaby 妊婦のための本"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25BC%25E3%2582%25AF%25E3%2582%25B7%25E3%2582%25A3Baby%2520%25E5%25A6%258A%25E5%25A9%25A6%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E6%259C%25AC%2F"
     price: "無料"
     description: "出産費用・制度の情報も掲載された無料情報誌"
   - name: "FP相談サービス"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFP%25E7%259B%25B8%25E8%25AB%2587%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2F"
     price: "無料相談"
     description: "出産・育児にかかるお金の不安をプロに相談"
 ---

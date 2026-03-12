@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-3.png"
 tags: ["入院バッグ", "出産準備", "陣痛バッグ", "入院持ち物", "マタニティ"]
 affiliate:
   - name: "犬印本舗 入院準備セット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E7%258A%25AC%25E5%258D%25B0%25E6%259C%25AC%25E8%2588%2597%2520%25E5%2585%25A5%25E9%2599%25A2%25E6%25BA%2596%25E5%2582%2599%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F"
     price: "約4,500円"
     description: "お産パッド・産褥ショーツ・臍帯箱など入院に必要なものが揃うセット"
   - name: "ワコール 産褥ショーツ 3枚セット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AF%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%25AB%2520%25E7%2594%25A3%25E8%25A4%25A5%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25BC%25E3%2583%2584%25203%25E6%259E%259A%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F"
     price: "約3,000円"
     description: "股部分が開閉できる産後の診察に便利なショーツ3枚組"
   - name: "スウィートマミー 授乳パジャマ"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B9%25E3%2582%25A6%25E3%2582%25A3%25E3%2583%25BC%25E3%2583%2588%25E3%2583%259E%25E3%2583%259F%25E3%2583%25BC%2520%25E6%258E%2588%25E4%25B9%25B3%25E3%2583%2591%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%259E%2F"
     price: "約4,500円"
     description: "おしゃれで機能的な授乳口付きマタニティパジャマ"
 ---

@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-preschool.png"
 tags: ["ランドセル", "入学準備", "ラン活", "小学校", "比較"]
 affiliate:
   - name: "天使のはね（セイバン）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25A4%25A9%25E4%25BD%25BF%25E3%2581%25AE%25E3%2581%25AF%25E3%2581%25AD%2520%25E3%2582%25BB%25E3%2582%25A4%25E3%2583%2590%25E3%2583%25B3%2F"
     price: "47,300円〜"
     description: "軽く感じる独自機能搭載の国内シェアNo.1ランドセルブランド"
   - name: "フィットちゃん"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2595%25E3%2582%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%2F"
     price: "40,700円〜"
     description: "背中にフィットして疲れにくい設計のランドセルブランド"
   - name: "土屋鞄製造所"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%259C%259F%25E5%25B1%258B%25E9%259E%2584%25E8%25A3%25BD%25E9%2580%25A0%25E6%2589%2580%2F"
     price: "65,000円〜"
     description: "職人が手作りする上質な本革ランドセルで人気の老舗工房"
 ---

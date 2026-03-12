@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-2.png"
 tags: ["胎教", "妊娠中期", "マタニティライフ", "赤ちゃんとのコミュニケーション"]
 affiliate:
   - name: "はじめての胎教BOOKセット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%25A6%25E3%2581%25AE%25E8%2583%258E%25E6%2595%2599BOOK%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F"
     price: "約1,980円"
     description: "胎教音楽CD付き。ママの声で読み聞かせできる絵本3冊セット"
   - name: "ベルタ葉酸マカプラス"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25BF%25E8%2591%2589%25E9%2585%25B8%25E3%2583%259E%25E3%2582%25AB%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B9%2F"
     price: "初回1,980円/月"
     description: "葉酸480μg配合。妊娠中の栄養をしっかりサポート"
   - name: "胎教モーツァルトBEST（CD）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E8%2583%258E%25E6%2595%2599%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2584%25E3%2582%25A1%25E3%2583%25AB%25E3%2583%2588BEST%2520CD%2F"
     price: "約2,200円"
     description: "クラシック音楽の定番。胎教に最適なモーツァルト名曲集"
 ---

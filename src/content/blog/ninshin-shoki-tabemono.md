@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-1.png"
 tags: ["妊娠初期", "食事制限", "妊婦の食事", "葉酸", "カフェイン"]
 affiliate:
   - name: "エレビット 葉酸サプリ 30日分"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%25AC%25E3%2583%2593%25E3%2583%2583%25E3%2583%2588%2520%25E8%2591%2589%25E9%2585%25B8%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%252030%25E6%2597%25A5%25E5%2588%2586%2F"
     price: "約4,500円"
     description: "産婦人科医推奨No.1。葉酸800μg＋鉄分21.5mg配合"
   - name: "ノンカフェイン ルイボスティー 100包"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%258E%25E3%2583%25B3%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%25B3%2520%25E3%2583%25AB%25E3%2582%25A4%25E3%2583%259C%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%2520100%25E5%258C%2585%2F"
     price: "約1,200円"
     description: "妊婦さんに人気のノンカフェインティー。ミネラル豊富でホットでもアイスでも"
   - name: "マタニティ料理本（たまひよ）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2582%25BF%25E3%2583%258B%25E3%2583%2586%25E3%2582%25A3%25E6%2596%2599%25E7%2590%2586%25E6%259C%25AC%2520%25E3%2581%259F%25E3%2581%25BE%25E3%2581%25B2%25E3%2582%2588%2F"
     price: "約1,430円"
     description: "妊娠期別の栄養バランスレシピ集。つわり期の食べやすいメニューも掲載"
 ---

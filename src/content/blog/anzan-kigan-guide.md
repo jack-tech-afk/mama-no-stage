@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-2.png"
 tags: ["安産祈願", "戌の日", "マタニティイベント", "妊娠中期", "腹帯"]
 affiliate:
   - name: "犬印本舗 はじめて腹帯セット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E7%258A%25AC%25E5%258D%25B0%25E6%259C%25AC%25E8%2588%2597%2520%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%25A6%25E8%2585%25B9%25E5%25B8%25AF%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F"
     price: "約3,300円"
     description: "さらし腹帯と腹巻がセットになったスターターキット。安産祈願にも最適"
   - name: "ワコール マタニティ 産前用ガードル"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AF%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%25AB%2520%25E3%2583%259E%25E3%2582%25BF%25E3%2583%258B%25E3%2583%2586%25E3%2582%25A3%2520%25E7%2594%25A3%25E5%2589%258D%25E7%2594%25A8%25E3%2582%25AC%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AB%2F"
     price: "約5,500円"
     description: "お腹をしっかり支えて腰の負担を軽減。普段使いにもおすすめ"
   - name: "マタニティフォーマルワンピース"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2582%25BF%25E3%2583%258B%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25AB%25E3%2583%25AF%25E3%2583%25B3%25E3%2583%2594%25E3%2583%25BC%25E3%2582%25B9%2F"
     price: "約6,000円"
     description: "安産祈願にぴったりのきちんと感のあるマタニティワンピース"
 ---

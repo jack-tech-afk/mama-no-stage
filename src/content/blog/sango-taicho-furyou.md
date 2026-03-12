@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-newborn.png"
 tags: ["産後", "自律神経", "体調不良", "めまい", "吐き気", "ホルモンバランス", "漢方"]
 affiliate:
   - name: "命の母ホワイト（小林製薬）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%2591%25BD%25E3%2581%25AE%25E6%25AF%258D%25E3%2583%259B%25E3%2583%25AF%25E3%2582%25A4%25E3%2583%2588%2520%25E5%25B0%258F%25E6%259E%2597%25E8%25A3%25BD%25E8%2596%25AC%2F"
     price: "約2,640円（180錠）"
     description: "11種類の生薬配合。産後のホルモンバランスの乱れによる諸症状に"
   - name: "養命酒製造 幸健生彩"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E9%25A4%258A%25E5%2591%25BD%25E9%2585%2592%25E8%25A3%25BD%25E9%2580%25A0%2520%25E5%25B9%25B8%25E5%2581%25A5%25E7%2594%259F%25E5%25BD%25A9%2F"
     price: "約2,160円（30日分）"
     description: "和漢素材配合のタブレット。疲れやすい、だるいと感じるママに"
   - name: "めぐりズム 蒸気でホットアイマスク"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%2581%25E3%2581%2590%25E3%2582%258A%25E3%2582%25BA%25E3%2583%25A0%2520%25E8%2592%25B8%25E6%25B0%2597%25E3%2581%25A7%25E3%2583%259B%25E3%2583%2583%25E3%2583%2588%25E3%2582%25A2%25E3%2582%25A4%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25AF%2F"
     price: "約1,100円（12枚入）"
     description: "約40℃の蒸気で目元を温めリラックス。就寝前の自律神経ケアに最適"
 ---

@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-newborn.png"
 tags: ["母乳", "混合育児", "ミルク", "搾乳機", "母乳が出ない", "哺乳瓶", "母乳パッド"]
 affiliate:
   - name: "メデラ スイング・マキシフレックス電動搾乳機"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A1%25E3%2583%2587%25E3%2583%25A9%2520%25E3%2582%25B9%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25BB%25E3%2583%259E%25E3%2582%25AD%25E3%2582%25B7%25E3%2583%2595%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%25E9%259B%25BB%25E5%258B%2595%25E6%2590%25BE%25E4%25B9%25B3%25E6%25A9%259F%2F"
     price: "約33,000円"
     description: "両胸同時搾乳で効率的。病院でも採用される信頼のブランド"
   - name: "ピジョン 母乳実感 哺乳びん"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2594%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%25B3%2520%25E6%25AF%258D%25E4%25B9%25B3%25E5%25AE%259F%25E6%2584%259F%2520%25E5%2593%25BA%25E4%25B9%25B3%25E3%2581%25B3%25E3%2582%2593%2F"
     price: "約2,200円"
     description: "おっぱいとの併用を考えた乳首設計。乳頭混乱を起こしにくい"
   - name: "ピジョン 母乳パッド フィットアップ"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2594%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%25B3%2520%25E6%25AF%258D%25E4%25B9%25B3%25E3%2583%2591%25E3%2583%2583%25E3%2583%2589%2520%25E3%2583%2595%25E3%2582%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%2F"
     price: "約880円（126枚入）"
     description: "通気性抜群でムレにくい。ズレ防止テープ付きで安心"
 ---

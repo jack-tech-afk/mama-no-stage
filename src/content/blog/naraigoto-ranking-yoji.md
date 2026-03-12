@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-preschool.png"
 tags: ["習い事", "幼児", "4歳", "5歳", "6歳", "ランキング"]
 affiliate:
   - name: "コドモブースター"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%2589%25E3%2583%25A2%25E3%2583%2596%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%2F"
     price: "無料"
     description: "近くの習い事教室を簡単検索・体験申込みできるポータルサイト"
   - name: "スイミングスクール体験"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B9%25E3%2582%25A4%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25BC%25E3%2583%25AB%25E4%25BD%2593%25E9%25A8%2593%2F"
     price: "無料体験あり"
     description: "全国のスイミングスクールの無料体験レッスンに申し込める"
 ---

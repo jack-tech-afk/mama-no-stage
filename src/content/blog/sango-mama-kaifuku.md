@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-newborn.png"
 tags: ["産後", "骨盤ケア", "抜け毛", "産後うつ", "産後ダイエット", "メンタルケア"]
 affiliate:
   - name: "トコちゃんベルトII"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2588%25E3%2582%25B3%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588II%2F"
     price: "約6,500円"
     description: "助産師推奨の骨盤ベルト。産前産後兼用で骨盤をしっかりサポート"
   - name: "スカルプDボーテ 薬用スカルプシャンプー"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B9%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2597D%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2586%2520%25E8%2596%25AC%25E7%2594%25A8%25E3%2582%25B9%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2597%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25BC%2F"
     price: "約3,970円"
     description: "産後の抜け毛対策に。頭皮ケア成分配合の女性用シャンプー"
 ---

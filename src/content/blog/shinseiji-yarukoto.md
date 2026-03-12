@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-newborn.png"
 tags: ["新生児", "出生届", "児童手当", "ニューボーンフォト", "内祝い", "産後手続き", "赤ちゃん保険"]
 affiliate:
   - name: "ニューボーンフォト出張撮影サービス"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25B3%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E5%2587%25BA%25E5%25BC%25B5%25E6%2592%25AE%25E5%25BD%25B1%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2F"
     price: "約25,000円〜"
     description: "プロカメラマンが自宅に出張。生後2週間以内の貴重な姿をアート写真に残せます"
   - name: "内祝いギフト専門店"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%2586%2585%25E7%25A5%259D%25E3%2581%2584%25E3%2582%25AE%25E3%2583%2595%25E3%2583%2588%25E5%25B0%2582%25E9%2596%2580%25E5%25BA%2597%2F"
     price: "約3,000円〜"
     description: "名入れスイーツやカタログギフトなど、お祝い返しにぴったりの品揃え"
 ---

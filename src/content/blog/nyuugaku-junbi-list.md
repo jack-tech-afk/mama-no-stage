@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-preschool.png"
 tags: ["入学準備", "小学校", "文房具", "名前つけ", "入学式"]
 affiliate:
   - name: "お名前シール工場"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%258A%25E5%2590%258D%25E5%2589%258D%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%25AB%25E5%25B7%25A5%25E5%25A0%25B4%2F"
     price: "1,980円〜"
     description: "防水・耐熱のお名前シール。食洗機・電子レンジOKで入学準備に最適"
   - name: "ゼブラ文房具セット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25BC%25E3%2583%2596%25E3%2583%25A9%25E6%2596%2587%25E6%2588%25BF%25E5%2585%25B7%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F"
     price: "2,500円程度"
     description: "小学1年生向けに設計された鉛筆・消しゴム・定規のスターターセット"
   - name: "入学式フォーマルセット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%2585%25A5%25E5%25AD%25A6%25E5%25BC%258F%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25AB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F"
     price: "5,000〜15,000円"
     description: "男の子・女の子の入学式向けフォーマルウェアセット"
 ---

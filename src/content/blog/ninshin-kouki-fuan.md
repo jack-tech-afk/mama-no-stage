@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-trimester-3.png"
 tags: ["妊娠後期", "出産不安", "メンタルケア", "マタニティブルー", "出産準備"]
 affiliate:
   - name: "出産準備セット（ダッコ）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%2587%25BA%25E7%2594%25A3%25E6%25BA%2596%25E5%2582%2599%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2520%25E3%2583%2580%25E3%2583%2583%25E3%2582%25B3%2F"
     price: "約5,000円"
     description: "お産パッド・産褥ショーツ・母乳パッドなど入院に必要なものが揃うセット"
   - name: "マタニティパジャマ 授乳口付き"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2582%25BF%25E3%2583%258B%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2591%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%259E%2520%25E6%258E%2588%25E4%25B9%25B3%25E5%258F%25A3%25E4%25BB%2598%25E3%2581%258D%2F"
     price: "約3,500円"
     description: "入院中から産後まで長く使える授乳口付きパジャマ"
 ---

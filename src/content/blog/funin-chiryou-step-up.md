@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-trying.png"
 tags: ["不妊治療", "ステップアップ", "体外受精", "人工授精", "保険適用", "PGT-A"]
 affiliate:
   - name: "エレビット 葉酸サプリ 30日分"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%25AC%25E3%2583%2593%25E3%2583%2583%25E3%2583%2588%2520%25E8%2591%2589%25E9%2585%25B8%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%252030%25E6%2597%25A5%25E5%2588%2586%2F"
     price: "約4,500円"
     description: "産婦人科医推奨No.1。800μgの葉酸＋鉄分・ビタミンD配合で妊活から妊娠初期まで"
   - name: "ベルタ葉酸マカプラス"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25BF%25E8%2591%2589%25E9%2585%25B8%25E3%2583%259E%25E3%2582%25AB%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B9%2F"
     price: "初回1,980円（定期）"
     description: "葉酸480μg＋マカ・亜鉛配合。妊活中のカップルに人気の妊活特化サプリ"
 ---

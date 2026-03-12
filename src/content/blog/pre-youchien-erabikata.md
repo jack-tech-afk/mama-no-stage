@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-age-3.png"
 tags: ["3歳", "プレ幼稚園", "幼稚園選び", "入園準備", "認定こども園"]
 affiliate:
   - name: "お名前シール 防水タイプ 300枚セット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%258A%25E5%2590%258D%25E5%2589%258D%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%25AB%2520%25E9%2598%25B2%25E6%25B0%25B4%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%2597%2520300%25E6%259E%259A%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F"
     price: "¥1,980"
     description: "入園準備に必須のお名前シール。食洗機・電子レンジ対応"
   - name: "スケーター 子ども用リュック"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%2520%25E5%25AD%2590%25E3%2581%25A9%25E3%2582%2582%25E7%2594%25A8%25E3%2583%25AA%25E3%2583%25A5%25E3%2583%2583%25E3%2582%25AF%2F"
     price: "¥2,750"
     description: "軽量で背負いやすい幼児向けリュック。通園にぴったり"
   - name: "上履き ムーンスター キャロット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E4%25B8%258A%25E5%25B1%25A5%25E3%2581%258D%2520%25E3%2583%25A0%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%2520%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%25AD%25E3%2583%2583%25E3%2583%2588%2F"
     price: "¥1,980"
     description: "足の成長を考えた設計の子ども用上履き"
 ---

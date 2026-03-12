@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-3.png"
 tags: ["出産準備", "入院バッグ", "ベビー用品", "出産準備リスト"]
 affiliate:
   - name: "コンビ ベビーカー スゴカルSwitch"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2593%2520%25E3%2583%2599%25E3%2583%2593%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC%2520%25E3%2582%25B9%25E3%2582%25B4%25E3%2582%25AB%25E3%2583%25ABSwitch%2F"
     price: "約55,000円"
     description: "軽量＆オート4キャスで取り回し抜群のA型ベビーカー"
   - name: "パンパース はじめての肌へのいちばん 新生児用"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%25B3%25E3%2583%2591%25E3%2583%25BC%25E3%2582%25B9%2520%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%25A6%25E3%2581%25AE%25E8%2582%258C%25E3%2581%25B8%25E3%2581%25AE%25E3%2581%2584%25E3%2581%25A1%25E3%2581%25B0%25E3%2582%2593%2520%25E6%2596%25B0%25E7%2594%259F%25E5%2585%2590%25E7%2594%25A8%2F"
     price: "約1,500円（70枚入）"
     description: "産院でも採用率No.1の新生児向けおむつ"
   - name: "エルゴベビー OMNI Breeze"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%25AB%25E3%2582%25B4%25E3%2583%2599%25E3%2583%2593%25E3%2583%25BC%2520OMNI%2520Breeze%2F"
     price: "約31,900円"
     description: "新生児から使えるメッシュ素材の人気抱っこ紐"
 ---

@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-2.png"
 tags: ["むくみ", "妊娠中期", "着圧ソックス", "マッサージ", "妊娠高血圧腎症"]
 affiliate:
   - name: "メディキュット 寝ながらメディキュット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A1%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%2583%25E3%2583%2588%2520%25E5%25AF%259D%25E3%2581%25AA%25E3%2581%258C%25E3%2582%2589%25E3%2583%25A1%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%2583%25E3%2583%2588%2F"
     price: "約2,000円"
     description: "寝ている間に脚をスッキリケアできる着圧ソックス"
   - name: "フジ医療器 フットマッサージャー"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2595%25E3%2582%25B8%25E5%258C%25BB%25E7%2599%2582%25E5%2599%25A8%2520%25E3%2583%2595%25E3%2583%2583%25E3%2583%2588%25E3%2583%259E%25E3%2583%2583%25E3%2582%25B5%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25BC%2F"
     price: "約12,000円"
     description: "足裏からふくらはぎまでしっかりほぐすフットマッサージャー"
   - name: "エレビット むくみ対策サプリ"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%25AC%25E3%2583%2593%25E3%2583%2583%25E3%2583%2588%2520%25E3%2582%2580%25E3%2581%258F%25E3%2581%25BF%25E5%25AF%25BE%25E7%25AD%2596%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%2F"
     price: "約3,500円"
     description: "カリウム・ビタミンB群配合の妊婦向けむくみ対策サプリ"
 ---

@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-newborn.png"
 tags: ["ワンオペ育児", "ファミサポ", "家事代行", "育児ストレス", "ベビーシッター", "時短家電", "産後うつ"]
 affiliate:
   - name: "家事代行サービス CaSy"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25AE%25B6%25E4%25BA%258B%25E4%25BB%25A3%25E8%25A1%258C%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520CaSy%2F"
     price: "1時間2,790円〜"
     description: "当日3時間前まで予約OK。料理・掃除・片付けをプロにお任せできます"
   - name: "ベビーシッターサービス キッズライン"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2599%25E3%2583%2593%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%2583%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25AD%25E3%2583%2583%25E3%2582%25BA%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%2F"
     price: "1時間1,000円〜"
     description: "スマホで簡単予約。保育士資格者多数登録の安心シッターサービス"
   - name: "パナソニック 食器洗い乾燥機 NP-TSP1"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%258A%25E3%2582%25BD%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%2520%25E9%25A3%259F%25E5%2599%25A8%25E6%25B4%2597%25E3%2581%2584%25E4%25B9%25BE%25E7%2587%25A5%25E6%25A9%259F%2520NP-TSP1%2F"
     price: "約37,000円"
     description: "工事不要のタンク式。育児中の食器洗いストレスから解放される時短家電の定番"
 ---

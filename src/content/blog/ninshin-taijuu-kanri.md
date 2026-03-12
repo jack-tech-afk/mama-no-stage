@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-trimester-2.png"
 tags: ["体重管理", "妊娠中期", "BMI", "妊娠高血圧症候群", "妊娠糖尿病"]
 affiliate:
   - name: "タニタ 体組成計 BC-768"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25BF%25E3%2583%258B%25E3%2582%25BF%2520%25E4%25BD%2593%25E7%25B5%2584%25E6%2588%2590%25E8%25A8%2588%2520BC-768%2F"
     price: "約8,000円"
     description: "50g単位で測定可能な高精度体組成計。妊娠中の体重管理に最適"
   - name: "マタニティヨガDVD"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2582%25BF%25E3%2583%258B%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25A8%25E3%2582%25ACDVD%2F"
     price: "約2,500円"
     description: "自宅で無理なくできるマタニティヨガプログラム"
 ---

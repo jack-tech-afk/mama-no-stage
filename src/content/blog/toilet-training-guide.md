@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-age-2.png"
 tags: ["2歳", "トイレトレーニング", "おむつ外し", "トレパン", "補助便座"]
 affiliate:
   - name: "リッチェル ポッティス 補助便座"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2581%25E3%2582%25A7%25E3%2583%25AB%2520%25E3%2583%259D%25E3%2583%2583%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B9%2520%25E8%25A3%259C%25E5%258A%25A9%25E4%25BE%25BF%25E5%25BA%25A7%2F"
     price: "¥3,300"
     description: "またがなくていい座るだけの補助便座。取り付け簡単"
   - name: "コンビ ベビーレーベル おまるでステップ"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2593%2520%25E3%2583%2599%25E3%2583%2593%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2581%258A%25E3%2581%25BE%25E3%2582%258B%25E3%2581%25A7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%2583%25E3%2583%2597%2F"
     price: "¥4,950"
     description: "おまる→補助便座→ステップに変身する3WAYおまる"
   - name: "トレーニングパンツ 6層 3枚セット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2591%25E3%2583%25B3%25E3%2583%2584%25206%25E5%25B1%25A4%25203%25E6%259E%259A%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F"
     price: "¥1,980"
     description: "厚手の6層構造でしっかり吸収するトレーニングパンツ"
 ---

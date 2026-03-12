@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-newborn.png"
 tags: ["ベビーモニター", "見守りカメラ", "新生児", "育児グッズ", "比較"]
 affiliate:
   - name: "パナソニック ベビーモニター KX-HBC200"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%258A%25E3%2582%25BD%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%2520%25E3%2583%2599%25E3%2583%2593%25E3%2583%25BC%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%2520KX-HBC200%2F"
     price: "約20,000円"
     description: "専用モニター付きで安定接続。温度センサー・ナイトモード搭載の安心設計"
   - name: "CuboAi Plus スマートベビーモニター"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuboAi%2520Plus%2520%25E3%2582%25B9%25E3%2583%259E%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2599%25E3%2583%2593%25E3%2583%25BC%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%2F"
     price: "約35,000円"
     description: "AI搭載で顔覆い検知・寝返り検知。危険を自動通知する最先端モニター"
   - name: "トリビュート ベビーモニター BM-DW01"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2588%2520%25E3%2583%2599%25E3%2583%2593%25E3%2583%25BC%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%2520BM-DW01%2F"
     price: "約12,000円"
     description: "コスパ抜群の専用モニター型。2.4GHz帯で安定した映像をお届け"
 ---

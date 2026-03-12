@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-newborn.png"
 tags: ["頭の形", "向き癖", "ヘルメット治療", "スターバンド", "アイメット", "絶壁"]
 affiliate:
   - name: "エスメラルダ ドーナツ枕"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%25A1%25E3%2583%25A9%25E3%2583%25AB%25E3%2583%2580%2520%25E3%2583%2589%25E3%2583%25BC%25E3%2583%258A%25E3%2583%2584%25E6%259E%2595%2F"
     price: "約2,750円"
     description: "向き癖対策に人気のベビー枕。通気性抜群で洗濯OK"
   - name: "サンデシカ スリーピングピロー"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2587%25E3%2582%25B7%25E3%2582%25AB%2520%25E3%2582%25B9%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2594%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2594%25E3%2583%25AD%25E3%2583%25BC%2F"
     price: "約3,300円"
     description: "頭の形を整えるために設計された新生児用まくら。助産師監修"
 ---

@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-infant.png"
 tags: ["食材宅配", "時短", "離乳食", "コープ", "オイシックス"]
 affiliate:
   - name: "オイシックス おためしセット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AA%25E3%2582%25A4%25E3%2582%25B7%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2581%258A%25E3%2581%259F%25E3%2582%2581%25E3%2581%2597%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F"
     price: "1,980円（税込）"
     description: "有機野菜やミールキットが入ったおためしセット。通常価格の60%OFF"
   - name: "パルシステム おためしセット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%25AB%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%2520%25E3%2581%258A%25E3%2581%259F%25E3%2582%2581%25E3%2581%2597%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F"
     price: "980円（税込）"
     description: "国産・産直にこだわった食材のおためしセット。離乳食用もあり"
   - name: "コープデリ 資料請求"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2597%25E3%2583%2587%25E3%2583%25AA%2520%25E8%25B3%2587%25E6%2596%2599%25E8%25AB%258B%25E6%25B1%2582%2F"
     price: "無料"
     description: "生協の宅配サービス。資料請求で人気商品プレゼントキャンペーン中"
 ---

@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-trimester-2.png"
 tags: ["安定期", "妊娠中期", "マタニティライフ", "妊娠16週"]
 affiliate:
   - name: "ゼクシィBaby 妊婦のための本"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25BC%25E3%2582%25AF%25E3%2582%25B7%25E3%2582%25A3Baby%2520%25E5%25A6%258A%25E5%25A9%25A6%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E6%259C%25AC%2F"
     price: "無料"
     description: "妊娠・出産に関する情報が満載の無料情報誌"
   - name: "トコちゃんベルト2"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2588%25E3%2582%25B3%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%25E3%2583%2599%25E3%2583%25AB%25E3%2583%25882%2F"
     price: "約6,500円"
     description: "妊娠中の骨盤ケアに定番のサポートベルト"
 ---

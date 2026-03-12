@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-trying.png"
 tags: ["妊活", "メンタルケア", "不妊治療", "ストレス", "カウンセリング", "妊活疲れ"]
 affiliate:
   - name: "ヨガマット＋リラクゼーションセット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A8%25E3%2582%25AC%25E3%2583%259E%25E3%2583%2583%25E3%2583%2588%25EF%25BC%258B%25E3%2583%25AA%25E3%2583%25A9%25E3%2582%25AF%25E3%2582%25BC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F"
     price: "約3,500円"
     description: "自宅でできるマタニティヨガ対応。厚さ10mmで膝にやさしい"
   - name: "ベルタ葉酸マカプラス"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25BF%25E8%2591%2589%25E9%2585%25B8%25E3%2583%259E%25E3%2582%25AB%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B9%2F"
     price: "初回1,980円（定期）"
     description: "妊活に必要な葉酸＋マカ・亜鉛を一度に。夫婦で飲めるサプリ"
 ---

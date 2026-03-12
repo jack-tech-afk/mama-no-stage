@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-preschool.png"
 tags: ["プログラミング", "幼児", "知育", "論理的思考力", "STEM教育"]
 affiliate:
   - name: "キュベット プログラミングロボ"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%2599%25E3%2583%2583%25E3%2583%2588%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%259C%2F"
     price: "約35,200円"
     description: "画面を使わずにプログラミングの基礎を学べる木製ロボット。3歳から対象"
   - name: "レゴ エデュケーション SPIKE"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AC%25E3%2582%25B4%2520%25E3%2582%25A8%25E3%2583%2587%25E3%2583%25A5%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2520SPIKE%2F"
     price: "約45,000円"
     description: "レゴブロックとプログラミングを組み合わせた本格的なSTEM教材"
   - name: "学研のプログラミング教室"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25AD%25A6%25E7%25A0%2594%25E3%2581%25AE%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E6%2595%2599%25E5%25AE%25A4%2F"
     price: "月額8,800円〜"
     description: "年中から通える学研のプログラミング教室。少人数制で丁寧な指導"
 ---

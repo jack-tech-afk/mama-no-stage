@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-age-2.png"
 tags: ["2歳", "通信教育", "こどもちゃれんじ", "ポピー", "Z会", "知育"]
 affiliate:
   - name: "こどもちゃれんじ ぽけっと"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%2593%25E3%2581%25A9%25E3%2582%2582%25E3%2581%25A1%25E3%2582%2583%25E3%2582%258C%25E3%2582%2593%25E3%2581%2598%2520%25E3%2581%25BD%25E3%2581%2591%25E3%2581%25A3%25E3%2581%25A8%2F"
     price: "月額¥2,990"
     description: "しまじろうと一緒に楽しく学べる定番の通信教育"
   - name: "幼児ポピー ももちゃん"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25B9%25BC%25E5%2585%2590%25E3%2583%259D%25E3%2583%2594%25E3%2583%25BC%2520%25E3%2582%2582%25E3%2582%2582%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%2F"
     price: "月額¥1,500"
     description: "シンプルで続けやすい低価格の通信教育"
   - name: "Z会 幼児コース 年少"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FZ%25E4%25BC%259A%2520%25E5%25B9%25BC%25E5%2585%2590%25E3%2582%25B3%25E3%2583%25BC%25E3%2582%25B9%2520%25E5%25B9%25B4%25E5%25B0%2591%2F"
     price: "月額¥2,465"
     description: "体験型学習で考える力を育てるZ会の幼児向けコース"
 ---

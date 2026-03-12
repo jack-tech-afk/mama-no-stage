@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-newborn.png"
 tags: ["産後クライシス", "夫婦関係", "産後", "パパ育児", "メンタルケア", "イライラ"]
 affiliate:
   - name: "産後が始まった！（書籍）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E7%2594%25A3%25E5%25BE%258C%25E3%2581%258C%25E5%25A7%258B%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%2581%2520%25E6%259B%25B8%25E7%25B1%258D%2F"
     price: "約1,540円"
     description: "産後クライシスの実態と乗り越え方を描いたコミックエッセイ。夫婦で読める一冊"
   - name: "cotree（コトリー）オンラインカウンセリング"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fcotree%2520%25E3%2582%25B3%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC%2520%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25BB%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2F"
     price: "1回5,500円〜"
     description: "自宅から受けられるオンラインカウンセリング。産後の悩みに対応するカウンセラー在籍"
 ---

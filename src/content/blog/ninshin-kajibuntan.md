@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-2.png"
 tags: ["家事分担", "妊娠中", "夫婦関係", "家事代行", "パートナーシップ"]
 affiliate:
   - name: "CaSy（カジー）家事代行 お試しプラン"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCaSy%2520%25E3%2582%25AB%25E3%2582%25B8%25E3%2583%25BC%2520%25E5%25AE%25B6%25E4%25BA%258B%25E4%25BB%25A3%25E8%25A1%258C%2520%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25B3%2F"
     price: "1時間2,790円〜"
     description: "業界最安水準の家事代行サービス。掃除・料理どちらも対応。スマホで簡単予約"
   - name: "iRobot ルンバ i5+ ロボット掃除機"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FiRobot%2520%25E3%2583%25AB%25E3%2583%25B3%25E3%2583%2590%2520i5%252B%2520%25E3%2583%25AD%25E3%2583%259C%25E3%2583%2583%25E3%2583%2588%25E6%258E%2583%25E9%2599%25A4%25E6%25A9%259F%2F"
     price: "約49,800円"
     description: "自動ゴミ収集ドック付きでゴミ捨ての手間も削減。妊娠中の掃除負担を大幅軽減"
   - name: "タスカジ 家事代行マッチング"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AB%25E3%2582%25B8%2520%25E5%25AE%25B6%25E4%25BA%258B%25E4%25BB%25A3%25E8%25A1%258C%25E3%2583%259E%25E3%2583%2583%25E3%2583%2581%25E3%2583%25B3%25E3%2582%25B0%2F"
     price: "1時間1,500円〜"
     description: "個人の家事代行さんとマッチング。料理の作り置きが人気。口コミで選べて安心"
 ---

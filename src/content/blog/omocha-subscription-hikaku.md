@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-age-1.png"
 tags: ["おもちゃサブスク", "知育玩具", "1歳", "レンタル", "比較"]
 affiliate:
   - name: "トイサブ！"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2588%25E3%2582%25A4%25E3%2582%25B5%25E3%2583%2596%25EF%25BC%2581%2F"
     price: "月額3,674円"
     description: "おもちゃサブスク最大手。知育玩具のプロが月齢に合わせたおもちゃを厳選"
   - name: "キッズ・ラボラトリー"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AD%25E3%2583%2583%25E3%2582%25BA%25E3%2583%25BB%25E3%2583%25A9%25E3%2583%259C%25E3%2583%25A9%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC%2F"
     price: "月額2,574円〜"
     description: "おもちゃコンシェルジュが一人ひとりに合わせた知育玩具を提案"
   - name: "Cha Cha Cha"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCha%2520Cha%2520Cha%2F"
     price: "月額3,630円"
     description: "初月1円キャンペーンが人気。カタログから好きなおもちゃをリクエスト可能"
 ---

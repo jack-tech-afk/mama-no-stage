@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-2.png"
 tags: ["マタニティウェア", "マタニティファッション", "妊婦服", "ブランド比較"]
 affiliate:
   - name: "Sweet Mommy マタニティワンピース"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSweet%2520Mommy%2520%25E3%2583%259E%25E3%2582%25BF%25E3%2583%258B%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25AF%25E3%2583%25B3%25E3%2583%2594%25E3%2583%25BC%25E3%2582%25B9%2F"
     price: "約5,000〜8,000円"
     description: "授乳口付きで産後も使えるおしゃれなワンピース"
   - name: "犬印本舗 マタニティレギンス"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E7%258A%25AC%25E5%258D%25B0%25E6%259C%25AC%25E8%2588%2597%2520%25E3%2583%259E%25E3%2582%25BF%25E3%2583%258B%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25AC%25E3%2582%25AE%25E3%2583%25B3%25E3%2582%25B9%2F"
     price: "約2,000〜3,000円"
     description: "お腹をすっぽり包む柔らかレギンスパンツ"
   - name: "UNIQLO マタニティジーンズ"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUNIQLO%2520%25E3%2583%259E%25E3%2582%25BF%25E3%2583%258B%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B8%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25BA%2F"
     price: "約3,990円"
     description: "伸縮性抜群で臨月まで履ける定番デニム"
 ---

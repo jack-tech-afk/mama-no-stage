@@ -8,7 +8,7 @@ heroImage: "/images/heroes/hero-trying.png"
 tags: ["妊活", "メンタルケア", "妊娠報告", "SNS", "罪悪感", "不妊治療"]
 affiliate:
   - name: "『妊活に疲れたら読む本』矢沢 透著"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25A6%258A%25E6%25B4%25BB%25E3%2581%25AB%25E7%2596%25B2%25E3%2582%258C%25E3%2581%259F%25E3%2582%2589%25E8%25AA%25AD%25E3%2582%2580%25E6%259C%25AC%2520%25E7%259F%25A2%25E6%25B2%25A2%2520%25E9%2580%258F%25E8%2591%2597%2F"
     price: "約1,650円"
     description: "不妊カウンセラーが教える心の整え方。多くの妊活女性に支持されるロングセラー"
 ---

@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-1.png"
 tags: ["妊娠中のお金", "出産育児一時金", "出産手当金", "育児休業給付金", "給付金", "助成金"]
 affiliate:
   - name: "マネーフォワード ME プレミアムプラン"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%2520ME%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25B3%2F"
     price: "月額500円"
     description: "家計簿アプリ利用率No.1。銀行・クレカ連携で自動記録。出産前後の家計管理に最適"
   - name: "リクルート FP無料相談（保険チャンネル）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AA%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2588%2520FP%25E7%2584%25A1%25E6%2596%2599%25E7%259B%25B8%25E8%25AB%2587%2520%25E4%25BF%259D%25E9%2599%25BA%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%258D%25E3%2583%25AB%2F"
     price: "無料"
     description: "妊娠・出産に詳しいFPに無料相談。保険の見直し・家計の見直しをプロがサポート"
   - name: "Zaim 家計簿アプリ プレミアム"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FZaim%2520%25E5%25AE%25B6%25E8%25A8%2588%25E7%25B0%25BF%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%2F"
     price: "月額480円"
     description: "レシート読み取り機能で簡単入力。1,500以上の金融機関と連携可能"
 ---

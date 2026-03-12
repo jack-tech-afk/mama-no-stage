@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-1.png"
 tags: ["妊娠初診", "産婦人科", "初めての妊娠", "母子手帳", "妊婦健診"]
 affiliate:
   - name: "母子手帳ケース（ジェラートピケ）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%25AF%258D%25E5%25AD%2590%25E6%2589%258B%25E5%25B8%25B3%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2594%25E3%2582%25B1%2F"
     price: "約3,800円"
     description: "大容量の蛇腹式で診察券・保険証・エコー写真もまとめて収納"
   - name: "マタニティダイアリー"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2582%25BF%25E3%2583%258B%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2580%25E3%2582%25A4%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25BC%2F"
     price: "約1,500円"
     description: "妊娠記録を残せるダイアリー。エコー写真の貼り付けスペースも"
   - name: "はじめての妊娠・出産事典（たまごクラブ特別編集）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%25A6%25E3%2581%25AE%25E5%25A6%258A%25E5%25A8%25A0%25E3%2583%25BB%25E5%2587%25BA%25E7%2594%25A3%25E4%25BA%258B%25E5%2585%25B8%2520%25E3%2581%259F%25E3%2581%25BE%25E3%2581%2594%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2596%25E7%2589%25B9%25E5%2588%25A5%25E7%25B7%25A8%25E9%259B%2586%2F"
     price: "約1,650円"
     description: "妊娠初期から出産後まで網羅した安心の一冊"
 ---

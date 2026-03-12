@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-3.png"
 tags: ["里帰り出産", "里帰りしない", "産後サポート", "育休", "食材宅配", "産後ケア"]
 affiliate:
   - name: "オイシックス おためしセット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AA%25E3%2582%25A4%25E3%2582%25B7%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2581%258A%25E3%2581%259F%25E3%2582%2581%25E3%2581%2597%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F"
     price: "初回1,980円（税込）"
     description: "有機野菜・時短キットが入ったお試しセット。産後の食事準備の負担を大幅軽減"
   - name: "ヨシケイ すまいるごはん"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A8%25E3%2582%25B7%25E3%2582%25B1%25E3%2582%25A4%2520%25E3%2581%2599%25E3%2581%25BE%25E3%2581%2584%25E3%2582%258B%25E3%2581%2594%25E3%2581%25AF%25E3%2582%2593%2F"
     price: "1食あたり約600円〜"
     description: "食材を毎日玄関先にお届け。カット済み食材で調理時間15分のコースも"
   - name: "産後ケアホテル マームガーデン"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E7%2594%25A3%25E5%25BE%258C%25E3%2582%25B1%25E3%2582%25A2%25E3%2583%259B%25E3%2583%2586%25E3%2583%25AB%2520%25E3%2583%259E%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25AC%25E3%2583%25BC%25E3%2583%2587%25E3%2583%25B3%2F"
     price: "1泊約3〜5万円"
     description: "24時間助産師常駐の産後ケア施設。母子同室で安心して休養できる"
 ---

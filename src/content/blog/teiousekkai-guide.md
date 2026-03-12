@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-trimester-3.png"
 tags: ["帝王切開", "出産", "術後ケア", "傷跡ケア", "出産準備"]
 affiliate:
   - name: "犬印本舗 帝王切開用腹帯"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E7%258A%25AC%25E5%258D%25B0%25E6%259C%25AC%25E8%2588%2597%2520%25E5%25B8%259D%25E7%258E%258B%25E5%2588%2587%25E9%2596%258B%25E7%2594%25A8%25E8%2585%25B9%25E5%25B8%25AF%2F"
     price: "約3,500円"
     description: "傷口に優しい帝王切開専用の腹帯。術後の動き出しをサポート"
   - name: "アトファイン 傷あとケアテープ"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A2%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25B3%2520%25E5%2582%25B7%25E3%2581%2582%25E3%2581%25A8%25E3%2582%25B1%25E3%2582%25A2%25E3%2583%2586%25E3%2583%25BC%25E3%2583%2597%2F"
     price: "約1,500円"
     description: "術後の傷跡を目立たなくする医療用テープ。3ヶ月以上の継続使用を推奨"
 ---

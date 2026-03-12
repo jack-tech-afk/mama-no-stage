@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-age-1.png"
 tags: ["1歳", "誕生日プレゼント", "知育おもちゃ", "ファーストシューズ", "一升餅"]
 affiliate:
   - name: "ピープル いたずら1歳やりたい放題ビッグ版"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2594%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25AB%2520%25E3%2581%2584%25E3%2581%259F%25E3%2581%259A%25E3%2582%25891%25E6%25AD%25B3%25E3%2582%2584%25E3%2582%258A%25E3%2581%259F%25E3%2581%2584%25E6%2594%25BE%25E9%25A1%258C%25E3%2583%2593%25E3%2583%2583%25E3%2582%25B0%25E7%2589%2588%2F"
     price: "¥4,980"
     description: "1歳児の好奇心を刺激する大人気知育おもちゃ"
   - name: "ボーネルンド アンビトーイ・ベビーギフトセット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259C%25E3%2583%25BC%25E3%2583%258D%25E3%2583%25AB%25E3%2583%25B3%25E3%2583%2589%2520%25E3%2582%25A2%25E3%2583%25B3%25E3%2583%2593%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25A4%25E3%2583%25BB%25E3%2583%2599%25E3%2583%2593%25E3%2583%25BC%25E3%2582%25AE%25E3%2583%2595%25E3%2583%2588%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F"
     price: "¥5,500"
     description: "出産祝いや1歳の贈り物に最適な知育ギフトセット"
   - name: "アシックス ファブレ FIRST CT II"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A2%25E3%2582%25B7%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2583%2595%25E3%2582%25A1%25E3%2583%2596%25E3%2583%25AC%2520FIRST%2520CT%2520II%2F"
     price: "¥4,950"
     description: "歩き始めの赤ちゃんにぴったりのファーストシューズ"
 ---

@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-infant.png"
 tags: ["ネントレ", "寝かしつけ", "ベビーモニター", "ホワイトノイズ", "遮光カーテン", "乳児", "睡眠"]
 affiliate:
   - name: "パナソニック ベビーモニター KX-HBC200"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%258A%25E3%2582%25BD%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%2520%25E3%2583%2599%25E3%2583%2593%25E3%2583%25BC%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%2520KX-HBC200%2F"
     price: "約18,000円"
     description: "暗闘でも赤ちゃんの様子がクリアに見える。スマホで外出先からも確認可能"
   - name: "ドリーミーホワイトノイズマシン"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25BC%25E3%2583%259B%25E3%2583%25AF%25E3%2582%25A4%25E3%2583%2588%25E3%2583%258E%25E3%2582%25A4%25E3%2582%25BA%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3%2F"
     price: "約3,980円"
     description: "赤ちゃんがぐっすり眠れるホワイトノイズ・自然音を20種類搭載。タイマー付き"
   - name: "1級遮光カーテン（ニトリ）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F1%25E7%25B4%259A%25E9%2581%25AE%25E5%2585%2589%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2586%25E3%2583%25B3%2520%25E3%2583%258B%25E3%2583%2588%25E3%2583%25AA%2F"
     price: "約4,990円〜"
     description: "99.99%以上の遮光率で赤ちゃんの睡眠環境を整える。洗濯機で丸洗いOK"
 ---

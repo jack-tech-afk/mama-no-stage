@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-age-3.png"
 tags: ["英語教育", "3歳", "幼児英語", "おうち英語", "習い事"]
 affiliate:
   - name: "ディズニー英語システム"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25BA%25E3%2583%258B%25E3%2583%25BC%25E8%258B%25B1%25E8%25AA%259E%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%2F"
     price: "月額換算約3,500円〜"
     description: "ディズニーキャラクターと楽しく英語を学べる人気No.1の幼児英語教材"
   - name: "ペッピーキッズクラブ"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259A%25E3%2583%2583%25E3%2583%2594%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2583%25E3%2582%25BA%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2596%2F"
     price: "月額約11,000円"
     description: "全国1,400教室展開のネイティブ＋日本人講師による英会話教室"
   - name: "こどもちゃれんじEnglish"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%2593%25E3%2581%25A9%25E3%2582%2582%25E3%2581%25A1%25E3%2582%2583%25E3%2582%258C%25E3%2582%2593%25E3%2581%2598English%2F"
     price: "月額約3,140円〜"
     description: "しまじろうと一緒に遊びながら英語に触れられるベネッセの人気教材"
 ---

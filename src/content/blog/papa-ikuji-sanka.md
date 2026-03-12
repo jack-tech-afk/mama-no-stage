@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-newborn.png"
 tags: ["パパ育児", "育児参加", "育休", "家事分担", "新生児"]
 affiliate:
   - name: "パパ向け育児本セット"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%2591%25E5%2590%2591%25E3%2581%2591%25E8%2582%25B2%25E5%2585%2590%25E6%259C%25AC%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F"
     price: "1,650円"
     description: "新米パパ必読の育児ガイドブック。沐浴や抱っこの基本から学べる"
   - name: "パパバッグ（育児用ショルダーバッグ）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%2591%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%2520%25E8%2582%25B2%25E5%2585%2590%25E7%2594%25A8%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25AB%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%2F"
     price: "4,980円"
     description: "パパがおしゃれに持てるデザインのマザーズバッグ。収納力抜群"
 ---

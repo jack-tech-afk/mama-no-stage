@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-newborn.png"
 tags: ["お宮参り", "行事", "新生児", "神社", "写真撮影", "産着"]
 affiliate:
   - name: "スタジオアリス お宮参り撮影プラン"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B9%25E3%2582%25BF%25E3%2582%25B8%25E3%2582%25AA%25E3%2582%25A2%25E3%2583%25AA%25E3%2582%25B9%2520%25E3%2581%258A%25E5%25AE%25AE%25E5%258F%2582%25E3%2582%258A%25E6%2592%25AE%25E5%25BD%25B1%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25B3%2F"
     price: "撮影料3,300円〜"
     description: "産着レンタル無料・データ付きプランが人気のこども写真館"
   - name: "産着レンタル（きものレンタリエ）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E7%2594%25A3%25E7%259D%2580%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%2520%25E3%2581%258D%25E3%2582%2582%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AA%25E3%2582%25A8%2F"
     price: "9,800円〜"
     description: "正絹の産着をネットで手軽にレンタル。送料無料・クリーニング不要"
 ---

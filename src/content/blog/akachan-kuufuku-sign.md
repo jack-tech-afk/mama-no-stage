@@ -8,11 +8,11 @@ heroImage: "/images/heroes/hero-newborn.png"
 tags: ["空腹サイン", "授乳", "ミルク", "新生児", "哺乳瓶", "授乳クッション", "母乳"]
 affiliate:
   - name: "ピジョン 母乳実感哺乳瓶"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2594%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%25B3%2520%25E6%25AF%258D%25E4%25B9%25B3%25E5%25AE%259F%25E6%2584%259F%25E5%2593%25BA%25E4%25B9%25B3%25E7%2593%25B6%2F"
     price: "約2,200円"
     description: "母乳との併用に最適。赤ちゃんが自然な飲み方ができる設計で新生児から使えます"
   - name: "授乳クッション ムーミン"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%258E%2588%25E4%25B9%25B3%25E3%2582%25AF%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2520%25E3%2583%25A0%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%2F"
     price: "約4,980円"
     description: "高さ調節しやすい硬めの素材で、長時間の授乳でもママの腕が疲れにくい"
 ---

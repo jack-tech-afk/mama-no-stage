@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-age-2.png"
 tags: ["2歳", "イヤイヤ期", "かんしゃく", "子育て", "声かけ"]
 affiliate:
   - name: "子どもの気持ちがわかる本（PHP研究所）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25AD%2590%25E3%2581%25A9%25E3%2582%2582%25E3%2581%25AE%25E6%25B0%2597%25E6%258C%2581%25E3%2581%25A1%25E3%2581%258C%25E3%2582%258F%25E3%2581%258B%25E3%2582%258B%25E6%259C%25AC%2520PHP%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%2F"
     price: "¥1,540"
     description: "イヤイヤ期の子どもの心理がわかる育児書の決定版"
   - name: "モンテッソーリ教育が教えてくれた 子どもの見方"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A2%25E3%2583%25B3%25E3%2583%2586%25E3%2583%2583%25E3%2582%25BD%25E3%2583%25BC%25E3%2583%25AA%25E6%2595%2599%25E8%2582%25B2%25E3%2581%258C%25E6%2595%2599%25E3%2581%2588%25E3%2581%25A6%25E3%2581%258F%25E3%2582%258C%25E3%2581%259F%2520%25E5%25AD%2590%25E3%2581%25A9%25E3%2582%2582%25E3%2581%25AE%25E8%25A6%258B%25E6%2596%25B9%2F"
     price: "¥1,650"
     description: "子どもの自主性を育てるモンテッソーリ教育の入門書"
   - name: "アンガーマネジメント手帳"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25AC%25E3%2583%25BC%25E3%2583%259E%25E3%2583%258D%25E3%2582%25B8%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E6%2589%258B%25E5%25B8%25B3%2F"
     price: "¥1,430"
     description: "ママパパのイライラをコントロールするための実践ガイド"
 ---

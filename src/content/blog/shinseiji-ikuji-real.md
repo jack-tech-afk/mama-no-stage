@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-newborn.png"
 tags: ["新生児育児", "産後", "寝不足", "授乳", "泣き止まない", "新米ママ"]
 affiliate:
   - name: "エルゴベビー ナチュラルカーブ授乳クッション"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%25AB%25E3%2582%25B4%25E3%2583%2599%25E3%2583%2593%25E3%2583%25BC%2520%25E3%2583%258A%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25A9%25E3%2583%25AB%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2596%25E6%258E%2588%25E4%25B9%25B3%25E3%2582%25AF%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2F"
     price: "約9,900円"
     description: "人間工学に基づいた授乳姿勢をサポート。腰や肩の負担を軽減"
   - name: "メデラ スイング・マキシフレックス電動搾乳機"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A1%25E3%2583%2587%25E3%2583%25A9%2520%25E3%2582%25B9%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25BB%25E3%2583%259E%25E3%2582%25AD%25E3%2582%25B7%25E3%2583%2595%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%25E9%259B%25BB%25E5%258B%2595%25E6%2590%25BE%25E4%25B9%25B3%25E6%25A9%259F%2F"
     price: "約33,000円"
     description: "両胸同時搾乳で時短。病院グレードの搾乳力でしっかり搾れる"
   - name: "ピジョン さく乳器 母乳アシスト 電動Pro Personal+"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2594%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%25B3%2520%25E3%2581%2595%25E3%2581%258F%25E4%25B9%25B3%25E5%2599%25A8%2520%25E6%25AF%258D%25E4%25B9%25B3%25E3%2582%25A2%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2588%2520%25E9%259B%25BB%25E5%258B%2595Pro%2520Personal%252B%2F"
     price: "約16,500円"
     description: "6段階の吸引リズムでやさしく搾乳。充電式でどこでも使える"
 ---

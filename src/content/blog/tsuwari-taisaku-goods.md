@@ -8,15 +8,15 @@ heroImage: "/images/heroes/hero-trimester-1.png"
 tags: ["つわり", "つわり対策", "マタニティグッズ", "妊娠初期", "つわりバンド"]
 affiliate:
   - name: "Sea-Band つわり対策バンド"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSea-Band%2520%25E3%2581%25A4%25E3%2582%258F%25E3%2582%258A%25E5%25AF%25BE%25E7%25AD%2596%25E3%2583%2590%25E3%2583%25B3%25E3%2583%2589%2F"
     price: "約1,500円"
     description: "内関のツボを刺激して吐き気を軽減。薬を使わない安心設計"
   - name: "ALOBABY 葉酸サプリ（レモン味）"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FALOBABY%2520%25E8%2591%2589%25E9%2585%25B8%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%2520%25E3%2583%25AC%25E3%2583%25A2%25E3%2583%25B3%25E5%2591%25B3%2F"
     price: "約1,580円"
     description: "つわり中でも飲みやすいレモン味の小粒タブレット"
   - name: "生活の木 ペパーミント精油 10ml"
-    url: "https://example.com"
+    url: "https://af.moshimo.com/af/c/click?a_id=5419817&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E7%2594%259F%25E6%25B4%25BB%25E3%2581%25AE%25E6%259C%25A8%2520%25E3%2583%259A%25E3%2583%2591%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2583%2588%25E7%25B2%25BE%25E6%25B2%25B9%252010ml%2F"
     price: "約1,600円"
     description: "吐き気やにおい対策に。ハンカチに1滴垂らして携帯できる"
 ---
