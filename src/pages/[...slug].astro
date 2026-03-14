@@ -19,6 +19,13 @@ const { Content, headings } = await render(post);
 const stageInfo = getStage(post.data.stage);
 const dateStr = post.data.pubDate.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
 
+// Breadcrumb data for JSON-LD
+const breadcrumbs = [
+  { name: 'ホーム', url: '/' },
+  ...(stageInfo ? [{ name: stageInfo.shortLabel, url: `/stage/${post.data.stage}` }] : []),
+  { name: post.data.title, url: `/${post.id}` },
+];
+
 // Related posts
 const allPosts = await getCollection('blog');
 const related = allPosts
@@ -38,6 +45,7 @@ const nextStage = stageIndex < stages.length - 1 ? stages[stageIndex + 1] : null
   image={post.data.heroImage}
   type="article"
   publishedDate={post.data.pubDate}
+  breadcrumbs={breadcrumbs}
 >
   <article class="max-w-3xl mx-auto px-4 py-8">
     <!-- Breadcrumb -->

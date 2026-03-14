@@ -4,21 +4,28 @@ import SEOHead from '../components/SEOHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 
+interface BreadcrumbItem {
+  name: string;
+  url: string;
+}
+
 interface Props {
   title: string;
   description: string;
   image?: string;
   type?: string;
   publishedDate?: Date;
+  updatedDate?: Date;
+  breadcrumbs?: BreadcrumbItem[];
 }
 
-const { title, description, image, type, publishedDate } = Astro.props;
+const { title, description, image, type, publishedDate, updatedDate, breadcrumbs } = Astro.props;
 ---
 
 <!DOCTYPE html>
 <html lang="ja">
   <head>
-    <SEOHead title={title} description={description} image={image} type={type} publishedDate={publishedDate} />
+    <SEOHead title={title} description={description} image={image} type={type} publishedDate={publishedDate} updatedDate={updatedDate} breadcrumbs={breadcrumbs} />
   </head>
   <body class="min-h-screen flex flex-col bg-gray-50">
     <Header />
