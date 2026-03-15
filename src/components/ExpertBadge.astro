@@ -1,0 +1,78 @@
+---
+interface Props {
+  name: string;
+  title: string;
+  description: string;
+}
+
+const { name, title, description } = Astro.props;
+---
+
+<div class="expert-badge">
+  <div class="expert-icon">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" />
+      <polyline points="22 4 12 14.01 9 11.01" />
+    </svg>
+  </div>
+  <div class="expert-content">
+    <div class="expert-label">専門家監修</div>
+    <div class="expert-name">{name}</div>
+    <div class="expert-title">{title}</div>
+    <p class="expert-description">{description}</p>
+  </div>
+</div>
+
+<style>
+  .expert-badge {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    background: linear-gradient(135deg, #FFF0F5 0%, #FFE8F0 50%, #FFF5F8 100%);
+    border: 2px solid var(--color-primary-light);
+    border-radius: 16px;
+    padding: 1.25rem 1.5rem;
+    margin: 2rem 0;
+  }
+  .expert-icon {
+    width: 3rem;
+    height: 3rem;
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .expert-content {
+    flex: 1;
+    min-width: 0;
+  }
+  .expert-label {
+    display: inline-block;
+    background: var(--color-primary);
+    color: white;
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 0.15rem 0.6rem;
+    border-radius: 9999px;
+    margin-bottom: 0.4rem;
+    letter-spacing: 0.05em;
+  }
+  .expert-name {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--color-text);
+  }
+  .expert-title {
+    font-size: 0.8rem;
+    color: var(--color-text-light);
+    margin-bottom: 0.4rem;
+  }
+  .expert-description {
+    font-size: 0.85rem;
+    color: var(--color-text-light);
+    line-height: 1.7;
+    margin: 0;
+  }
+</style>

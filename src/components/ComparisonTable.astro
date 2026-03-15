@@ -1,0 +1,141 @@
+---
+interface ComparisonItem {
+  rank: number;
+  name: string;
+  ageRange: string;
+  feature: string;
+  price: string;
+  rating: number;
+}
+
+interface Props {
+  items: ComparisonItem[];
+  heading?: string;
+}
+
+const { items, heading = 'おすすめ比較ランキング' } = Astro.props;
+
+function getRankBadge(rank: number): { label: string; color: string; bg: string } {
+  switch (rank) {
+    case 1: return { label: '1位', color: '#B8860B', bg: 'linear-gradient(135deg, #FFD700, #FFC107)' };
+    case 2: return { label: '2位', color: '#666', bg: 'linear-gradient(135deg, #C0C0C0, #A8A8A8)' };
+    case 3: return { label: '3位', color: '#8B4513', bg: 'linear-gradient(135deg, #CD7F32, #B8722D)' };
+    default: return { label: `${rank}位`, color: '#888', bg: '#eee' };
+  }
+}
+
+function renderStars(rating: number): string {
+  const full = Math.floor(rating);
+  const half = rating % 1 >= 0.5 ? 1 : 0;
+  const empty = 5 - full - half;
+  return '★'.repeat(full) + (half ? '☆' : '') + '☆'.repeat(empty);
+}
+---
+
+<div class="comparison-table-wrapper">
+  <h3 class="comparison-heading">
+    <span class="comparison-heading-icon">🏆</span>
+    <span>{heading}</span>
+  </h3>
+  <div class="overflow-x-auto">
+    <table class="comparison-table">
+      <thead>
+        <tr>
+          <th class="w-16">順位</th>
+          <th>商品名</th>
+          <th>対象年齢</th>
+          <th>特徴</th>
+          <th>価格</th>
+          <th class="w-28">評価</th>
+        </tr>
+      </thead>
+      <tbody>
+        {items.map(item => {
+          const badge = getRankBadge(item.rank);
+          return (
+            <tr>
+              <td class="text-center">
+                <span
+                  class="rank-badge"
+                  style={`background: ${badge.bg}; color: white;`}
+                >
+                  {badge.label}
+                </span>
+              </td>
+              <td class="font-bold text-sm">{item.name}</td>
+              <td class="text-sm text-gray-600">{item.ageRange}</td>
+              <td class="text-sm">{item.feature}</td>
+              <td class="text-sm font-medium" style="color: var(--color-primary-dark);">{item.price}</td>
+              <td>
+                <span class="stars" style="color: #FFC107;">{renderStars(item.rating)}</span>
+                <span class="text-xs text-gray-500 ml-1">{item.rating.toFixed(1)}</span>
+              </td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<style>
+  .comparison-table-wrapper {
+    background: white;
+    border: 2px solid var(--color-primary-light);
+    border-radius: 16px;
+    overflow: hidden;
+    margin: 2rem 0;
+    box-shadow: 0 4px 20px rgba(232, 117, 143, 0.1);
+  }
+  .comparison-heading {
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%);
+    color: white;
+    padding: 1rem 1.5rem;
+    font-size: 1.1rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0;
+    border: none;
+  }
+  .comparison-heading-icon {
+    font-size: 1.3rem;
+  }
+  .comparison-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+  }
+  .comparison-table thead th {
+    background: linear-gradient(135deg, #FFF0F5 0%, #FFF5F8 100%);
+    color: var(--color-primary-dark);
+    padding: 0.75rem 1rem;
+    text-align: left;
+    font-weight: 600;
+    font-size: 0.8rem;
+    border-bottom: 2px solid var(--color-primary-light);
+  }
+  .comparison-table tbody td {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid #f5f5f5;
+    vertical-align: middle;
+  }
+  .comparison-table tbody tr:hover {
+    background: rgba(232, 117, 143, 0.03);
+  }
+  .rank-badge {
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    line-height: 2rem;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 0.75rem;
+    font-weight: 700;
+  }
+  .stars {
+    font-size: 0.85rem;
+    letter-spacing: 1px;
+  }
+</style>

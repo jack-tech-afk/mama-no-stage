@@ -1,0 +1,88 @@
+---
+interface Props {
+  name: string;
+  childAge: string;
+  text: string;
+}
+
+const { name, childAge, text } = Astro.props;
+---
+
+<div class="mama-voice-card">
+  <div class="mama-voice-header">
+    <div class="mama-avatar">
+      <span>👩</span>
+    </div>
+    <div class="mama-info">
+      <span class="mama-name">{name}</span>
+      <span class="mama-child-age">{childAge}</span>
+    </div>
+  </div>
+  <div class="mama-bubble">
+    <p>{text}</p>
+  </div>
+</div>
+
+<style>
+  .mama-voice-card {
+    background: linear-gradient(135deg, #FFF8F5 0%, #FFF0F5 100%);
+    border-radius: 16px;
+    padding: 1.25rem 1.5rem;
+    margin: 1.5rem 0;
+    border: 1px solid rgba(232, 117, 143, 0.15);
+  }
+  .mama-voice-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+  }
+  .mama-avatar {
+    width: 2.5rem;
+    height: 2.5rem;
+    background: linear-gradient(135deg, var(--color-primary-light) 0%, var(--color-primary) 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    flex-shrink: 0;
+  }
+  .mama-info {
+    display: flex;
+    flex-direction: column;
+  }
+  .mama-name {
+    font-weight: 700;
+    font-size: 0.9rem;
+    color: var(--color-text);
+  }
+  .mama-child-age {
+    font-size: 0.75rem;
+    color: var(--color-text-light);
+  }
+  .mama-bubble {
+    position: relative;
+    background: white;
+    border-radius: 12px;
+    padding: 1rem 1.25rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  }
+  .mama-bubble::before {
+    content: '';
+    position: absolute;
+    top: -8px;
+    left: 1.5rem;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 8px solid white;
+  }
+  .mama-bubble p {
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.8;
+    color: var(--color-text);
+  }
+</style>

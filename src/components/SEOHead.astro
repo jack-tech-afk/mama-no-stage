@@ -4,6 +4,16 @@ interface BreadcrumbItem {
   url: string;
 }
 
+interface FAQItem {
+  question: string;
+  answer: string;
+}
+
+interface HowToStep {
+  name: string;
+  text: string;
+}
+
 interface Props {
   title: string;
   description: string;
@@ -12,9 +22,12 @@ interface Props {
   publishedDate?: Date;
   updatedDate?: Date;
   breadcrumbs?: BreadcrumbItem[];
+  faqItems?: FAQItem[];
+  howToSteps?: HowToStep[];
+  howToName?: string;
 }
 
-const { title, description, image, type = 'website', publishedDate, updatedDate, breadcrumbs } = Astro.props;
+const { title, description, image, type = 'website', publishedDate, updatedDate, breadcrumbs, faqItems, howToSteps, howToName } = Astro.props;
 const siteTitle = 'ママのステージ';
 const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
@@ -61,6 +74,34 @@ const breadcrumbSchema = breadcrumbs && breadcrumbs.length > 0 ? {
     "item": new URL(item.url, Astro.site).toString(),
   }))
 } : null;
+
+// Build FAQPage structured data
+const faqSchema = faqItems && faqItems.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqItems.map(item => ({
+    "@type": "Question",
+    "name": item.question,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": item.answer,
+    }
+  }))
+} : null;
+
+// Build HowTo structured data
+const howToSchema = howToSteps && howToSteps.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": howToName || title,
+  "description": description,
+  "step": howToSteps.map((step, index) => ({
+    "@type": "HowToStep",
+    "position": index + 1,
+    "name": step.name,
+    "text": step.text,
+  }))
+} : null;
 ---
 
 <meta charset="utf-8" />
@@ -95,6 +136,16 @@ const breadcrumbSchema = breadcrumbs && breadcrumbs.length > 0 ? {
 <!-- BreadcrumbList Structured Data -->
 {breadcrumbSchema && (
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+)}
+
+<!-- FAQPage Structured Data -->
+{faqSchema && (
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+)}
+
+<!-- HowTo Structured Data -->
+{howToSchema && (
+  <script type="application/ld+json" set:html={JSON.stringify(howToSchema)} />
 )}
 
 <!-- Google Analytics -->

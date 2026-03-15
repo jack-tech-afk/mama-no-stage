@@ -1,0 +1,83 @@
+---
+import { getCollection } from 'astro:content';
+import { stages } from '../lib/stages';
+
+// Count articles per stage
+const allPosts = await getCollection('blog');
+const stageCounts: Record<string, number> = {};
+for (const post of allPosts) {
+  const stage = post.data.stage;
+  stageCounts[stage] = (stageCounts[stage] || 0) + 1;
+}
+---
+
+<section class="stage-nav">
+  <h2 class="stage-nav-heading">
+    <span>🗺️</span>
+    <span>ステージから記事を探す</span>
+  </h2>
+  <div class="stage-nav-grid">
+    {stages.map(stage => (
+      <a href={`/stage/${stage.id}`} class="stage-nav-card">
+        <span class="stage-nav-emoji">{stage.emoji}</span>
+        <span class="stage-nav-label">{stage.shortLabel}</span>
+        <span class="stage-nav-count">{stageCounts[stage.id] || 0}記事</span>
+      </a>
+    ))}
+  </div>
+</section>
+
+<style>
+  .stage-nav {
+    margin: 2.5rem 0;
+  }
+  .stage-nav-heading {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 1.25rem;
+    padding: 0.75rem 1rem 0.75rem 1.25rem;
+    background: linear-gradient(90deg, var(--color-warm) 0%, transparent 100%);
+    border-left: 5px solid var(--color-primary);
+    border-radius: 0 8px 8px 0;
+  }
+  .stage-nav-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: 0.75rem;
+  }
+  .stage-nav-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 1rem 0.75rem;
+    background: linear-gradient(135deg, #FFF0F5 0%, #FFF8FA 100%);
+    border: 1px solid var(--color-primary-light);
+    border-radius: 12px;
+    text-decoration: none;
+    color: var(--color-text);
+    transition: all 0.2s;
+  }
+  .stage-nav-card:hover {
+    background: linear-gradient(135deg, var(--color-primary-light) 0%, #FFF0F5 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(232, 117, 143, 0.15);
+  }
+  .stage-nav-emoji {
+    font-size: 1.75rem;
+  }
+  .stage-nav-label {
+    font-weight: 700;
+    font-size: 0.85rem;
+  }
+  .stage-nav-count {
+    font-size: 0.7rem;
+    color: var(--color-text-light);
+    background: white;
+    padding: 0.1rem 0.5rem;
+    border-radius: 9999px;
+  }
+</style>

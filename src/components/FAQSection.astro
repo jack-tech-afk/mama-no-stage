@@ -1,0 +1,124 @@
+---
+interface FAQItem {
+  question: string;
+  answer: string;
+}
+
+interface Props {
+  items: FAQItem[];
+  heading?: string;
+}
+
+const { items, heading = 'よくある質問' } = Astro.props;
+
+// Build FAQPage JSON-LD schema
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": items.map(item => ({
+    "@type": "Question",
+    "name": item.question,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": item.answer,
+    }
+  }))
+};
+---
+
+<section class="faq-section">
+  <h2 class="faq-heading">
+    <span>❓</span>
+    <span>{heading}</span>
+  </h2>
+  <div class="faq-list">
+    {items.map(item => (
+      <div class="faq-item">
+        <div class="faq-question">
+          <span class="faq-badge faq-q">Q</span>
+          <span class="faq-question-text">{item.question}</span>
+        </div>
+        <div class="faq-answer">
+          <span class="faq-badge faq-a">A</span>
+          <span class="faq-answer-text">{item.answer}</span>
+        </div>
+      </div>
+    ))}
+  </div>
+</section>
+
+<script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+<style>
+  .faq-section {
+    margin: 2.5rem 0;
+  }
+  .faq-heading {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 1.25rem;
+    padding: 0.75rem 1rem 0.75rem 1.25rem;
+    background: linear-gradient(90deg, var(--color-warm) 0%, transparent 100%);
+    border-left: 5px solid var(--color-primary);
+    border-radius: 0 8px 8px 0;
+  }
+  .faq-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .faq-item {
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid #f0f0f0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  }
+  .faq-question {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 1rem 1.25rem;
+    background: #FAFAFA;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .faq-answer {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 1rem 1.25rem;
+  }
+  .faq-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.75rem;
+    height: 1.75rem;
+    border-radius: 50%;
+    font-size: 0.85rem;
+    font-weight: 700;
+    flex-shrink: 0;
+    color: white;
+  }
+  .faq-q {
+    background: var(--color-primary);
+  }
+  .faq-a {
+    background: #66BB6A;
+  }
+  .faq-question-text {
+    font-weight: 700;
+    font-size: 0.95rem;
+    line-height: 1.7;
+    padding-top: 0.1rem;
+  }
+  .faq-answer-text {
+    font-size: 0.9rem;
+    line-height: 1.8;
+    color: var(--color-text-light);
+    padding-top: 0.1rem;
+  }
+</style>

@@ -1,0 +1,89 @@
+---
+interface RelatedArticle {
+  title: string;
+  url: string;
+}
+
+interface Props {
+  articles: RelatedArticle[];
+  heading?: string;
+}
+
+const { articles, heading = 'あわせて読みたい' } = Astro.props;
+---
+
+<div class="related-callout">
+  <div class="related-heading">
+    <span class="related-icon">📖</span>
+    <span>{heading}</span>
+  </div>
+  <ul class="related-list">
+    {articles.map(article => (
+      <li>
+        <a href={article.url} class="related-link">
+          <span class="related-arrow">→</span>
+          <span>{article.title}</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</div>
+
+<style>
+  .related-callout {
+    background: linear-gradient(135deg, #E8F4FD 0%, #F0F8FF 100%);
+    border-radius: 16px;
+    padding: 1.25rem 1.5rem;
+    margin: 2rem 0;
+    border: 1px solid rgba(66, 165, 245, 0.2);
+  }
+  .related-heading {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-weight: 700;
+    font-size: 1rem;
+    color: #1565C0;
+    margin-bottom: 0.75rem;
+  }
+  .related-icon {
+    font-size: 1.2rem;
+  }
+  .related-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .related-list li {
+    padding: 0;
+  }
+  .related-list li::before {
+    display: none;
+  }
+  .related-link {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.6rem 1rem;
+    background: white;
+    border-radius: 8px;
+    text-decoration: none;
+    color: var(--color-text);
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.2s;
+  }
+  .related-link:hover {
+    background: #DCEEFB;
+    color: #1565C0;
+    transform: translateX(4px);
+  }
+  .related-arrow {
+    color: #42A5F5;
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+</style>
