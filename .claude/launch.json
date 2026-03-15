@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "mockup-server",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "/Users/businesssungjaelee/claude/mama-no-stage", "-l", "3099"],
+      "port": 3099
+    }
+  ]
+}

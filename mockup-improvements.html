@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ママのステージ 改善モックアップ</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, 'Hiragino Sans', sans-serif; background: #fdf6f0; color: #333; line-height: 1.8; }
+.container { max-width: 780px; margin: 0 auto; padding: 20px; }
+.section-label { background: #e74c8b; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-size: 13px; font-weight: bold; margin-bottom: 16px; letter-spacing: 1px; }
+.mock-title { font-size: 24px; font-weight: bold; color: #e74c8b; margin-bottom: 30px; text-align: center; border-bottom: 3px solid #e74c8b; padding-bottom: 10px; }
+
+/* ===== 1. 記事タイトル改善 ===== */
+.title-comparison { background: white; border-radius: 12px; padding: 24px; margin-bottom: 30px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+.title-before, .title-after { padding: 12px 16px; border-radius: 8px; margin: 8px 0; font-size: 17px; font-weight: bold; }
+.title-before { background: #fee; border-left: 4px solid #e55; color: #933; }
+.title-after { background: #efe; border-left: 4px solid #5a5; color: #363; }
+.label-tag { font-size: 11px; font-weight: bold; padding: 2px 8px; border-radius: 4px; margin-right: 6px; }
+.tag-before { background: #fcc; color: #933; }
+.tag-after { background: #cfc; color: #363; }
+
+/* ===== 2. 比較表 ===== */
+.comparison-table { width: 100%; border-collapse: collapse; margin: 16px 0; background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+.comparison-table th { background: #e74c8b; color: white; padding: 12px 8px; font-size: 13px; }
+.comparison-table td { padding: 10px 8px; text-align: center; font-size: 13px; border-bottom: 1px solid #f0e0e8; }
+.comparison-table tr:last-child td { border-bottom: none; }
+.comparison-table td:first-child { text-align: left; font-weight: bold; padding-left: 16px; }
+.rank-badge { display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: white; font-size: 12px; font-weight: bold; line-height: 24px; text-align: center; margin-right: 4px; }
+.rank-1 { background: #FFD700; }
+.rank-2 { background: #C0C0C0; }
+.rank-3 { background: #CD7F32; }
+.stars { color: #FFB800; letter-spacing: 1px; }
+.price-tag { color: #e74c8b; font-weight: bold; }
+
+/* ===== 3. 商品カード ===== */
+.product-card { background: white; border: 2px solid #f8d7e8; border-radius: 16px; padding: 24px; margin: 20px 0; box-shadow: 0 4px 12px rgba(231,76,139,0.1); }
+.product-card-header { display: flex; align-items: center; gap: 16px; margin-bottom: 16px; }
+.product-img-placeholder { width: 120px; height: 120px; background: #fce4ec; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 48px; flex-shrink: 0; }
+.product-info h3 { font-size: 18px; color: #333; margin-bottom: 4px; }
+.product-info .product-price { font-size: 22px; color: #e74c8b; font-weight: bold; }
+.product-info .product-desc { font-size: 13px; color: #666; margin-top: 4px; }
+.product-features { display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0; }
+.feature-chip { background: #fce4ec; color: #c2185b; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; }
+.cta-buttons { display: flex; gap: 12px; margin-top: 16px; }
+.cta-btn { flex: 1; padding: 14px; border: none; border-radius: 10px; font-size: 15px; font-weight: bold; cursor: pointer; text-align: center; }
+.cta-amazon { background: #FF9900; color: white; }
+.cta-rakuten { background: #BF0000; color: white; }
+.recommend-badge { background: #e74c8b; color: white; padding: 3px 12px; border-radius: 20px; font-size: 11px; font-weight: bold; position: relative; top: -2px; margin-left: 8px; }
+
+/* ===== 4. ママの声 ===== */
+.mama-voice { background: #fff9f0; border-radius: 16px; padding: 20px 24px; margin: 20px 0; border: 1px solid #f5e6d0; position: relative; }
+.mama-voice::before { content: "💬"; font-size: 28px; position: absolute; top: -14px; left: 20px; }
+.mama-voice-header { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; margin-top: 4px; }
+.mama-avatar { width: 40px; height: 40px; border-radius: 50%; background: #fce4ec; display: flex; align-items: center; justify-content: center; font-size: 20px; }
+.mama-name { font-size: 13px; font-weight: bold; color: #888; }
+.mama-voice-text { font-size: 14px; color: #555; font-style: italic; }
+
+/* ===== 5. 監修バッジ ===== */
+.expert-badge { display: flex; align-items: center; gap: 14px; background: linear-gradient(135deg, #fff5f8, #fce4ec); border: 1px solid #f8bbd0; border-radius: 12px; padding: 16px 20px; margin: 20px 0; }
+.expert-icon { width: 56px; height: 56px; border-radius: 50%; background: #e74c8b; display: flex; align-items: center; justify-content: center; font-size: 28px; color: white; flex-shrink: 0; }
+.expert-info { font-size: 13px; color: #666; }
+.expert-info strong { color: #c2185b; font-size: 15px; display: block; margin-bottom: 2px; }
+
+/* ===== 6. FAQ ===== */
+.faq-section { background: white; border-radius: 12px; padding: 24px; margin: 20px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+.faq-item { border-bottom: 1px solid #f0e0e8; padding: 14px 0; }
+.faq-item:last-child { border-bottom: none; }
+.faq-q { font-weight: bold; color: #e74c8b; font-size: 15px; display: flex; align-items: flex-start; gap: 8px; }
+.faq-q::before { content: "Q"; background: #e74c8b; color: white; width: 24px; height: 24px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 13px; flex-shrink: 0; }
+.faq-a { margin-top: 8px; padding-left: 32px; font-size: 14px; color: #555; }
+.faq-a::before { content: "A"; background: #5a5; color: white; width: 24px; height: 24px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; font-size: 13px; margin-right: 8px; }
+
+/* ===== 7. あわせて読みたい ===== */
+.related-callout { background: #f0f7ff; border: 2px solid #bbdefb; border-radius: 12px; padding: 20px; margin: 20px 0; }
+.related-callout-title { font-size: 14px; font-weight: bold; color: #1565c0; margin-bottom: 10px; display: flex; align-items: center; gap: 6px; }
+.related-link { display: block; padding: 8px 0; color: #1976d2; text-decoration: none; font-size: 14px; border-bottom: 1px dashed #bbdefb; }
+.related-link:last-child { border-bottom: none; }
+.related-link::before { content: "▶"; margin-right: 6px; font-size: 10px; }
+
+/* ===== 8. ステージハブ改善 ===== */
+.stage-hub { background: white; border-radius: 16px; padding: 24px; margin: 20px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+.stage-hub h3 { color: #e74c8b; margin-bottom: 16px; }
+.stage-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.stage-card { background: #fff5f8; border-radius: 12px; padding: 14px; text-align: center; border: 1px solid #fce4ec; }
+.stage-card .emoji { font-size: 28px; margin-bottom: 4px; }
+.stage-card .stage-name { font-size: 13px; font-weight: bold; color: #c2185b; }
+.stage-card .article-count { font-size: 11px; color: #999; }
+
+.divider { height: 2px; background: linear-gradient(to right, transparent, #e74c8b, transparent); margin: 40px 0; }
+h2 { font-size: 20px; color: #333; margin: 20px 0 12px; }
+.note { background: #fff3cd; padding: 12px 16px; border-radius: 8px; font-size: 12px; color: #856404; margin: 10px 0; }
+</style>
+</head>
+<body>
+<div class="container">
+
+<h1 class="mock-title">🌸 ママのステージ 改善案モックアップ</h1>
+
+<!-- 1. タイトル改善 -->
+<span class="section-label">改善① タイトルフォーマット</span>
+<div class="title-comparison">
+<div class="title-before"><span class="label-tag tag-before">現在</span>離乳食の進め方ガイド</div>
+<div class="title-after"><span class="label-tag tag-after">改善後</span>【2026年最新】離乳食の進め方完全ガイド｜月齢別スケジュール付き</div>
+<div class="title-before"><span class="label-tag tag-before">現在</span>赤ちゃんの夜泣き対策</div>
+<div class="title-after"><span class="label-tag tag-after">改善後</span>【助産師監修】赤ちゃんの夜泣き対策7選｜原因と今すぐできる対処法</div>
+</div>
+
+<!-- 2. 比較表 -->
+<span class="section-label">改善② 記事冒頭の比較表</span>
+<p style="font-size:13px; color:#888; margin-bottom:8px;">※記事の最初500文字以内に比較表を配置→離脱率を大幅低減</p>
+<table class="comparison-table">
+<tr>
+<th>商品名</th>
+<th>対象月齢</th>
+<th>特徴</th>
+<th>価格</th>
+<th>評価</th>
+</tr>
+<tr>
+<td><span class="rank-badge rank-1">1</span>パルシステム離乳食</td>
+<td>5ヶ月〜</td>
+<td>国産・無添加</td>
+<td class="price-tag">月980円〜</td>
+<td class="stars">★★★★★</td>
+</tr>
+<tr>
+<td><span class="rank-badge rank-2">2</span>コープデリ きらきらステップ</td>
+<td>5ヶ月〜</td>
+<td>少量パック</td>
+<td class="price-tag">月800円〜</td>
+<td class="stars">★★★★☆</td>
+</tr>
+<tr>
+<td><span class="rank-badge rank-3">3</span>和光堂 グーグーキッチン</td>
+<td>7ヶ月〜</td>
+<td>コスパ◎</td>
+<td class="price-tag">1個98円〜</td>
+<td class="stars">★★★★☆</td>
+</tr>
+</table>
+
+<!-- 3. 商品カード -->
+<div class="divider"></div>
+<span class="section-label">改善③ 商品カード（Amazon+楽天ダブルCTA）</span>
+<div class="product-card">
+<div class="product-card-header">
+<div class="product-img-placeholder">🍼</div>
+<div class="product-info">
+<h3>パルシステム 離乳食おためしセット <span class="recommend-badge">イチオシ</span></h3>
+<div class="product-price">980円 <span style="font-size:13px;color:#999;font-weight:normal">（税込・送料無料）</span></div>
+<div class="product-desc">裏ごし野菜・骨取り魚など6品入り。初めての離乳食にぴったり！</div>
+</div>
+</div>
+<div class="product-features">
+<span class="feature-chip">🍃 国産100%</span>
+<span class="feature-chip">🚫 化学調味料不使用</span>
+<span class="feature-chip">📦 冷凍で届く</span>
+<span class="feature-chip">⏱ レンジ3分</span>
+</div>
+<div class="cta-buttons">
+<div class="cta-btn cta-amazon">🛒 Amazonで見る</div>
+<div class="cta-btn cta-rakuten">🛒 楽天で見る</div>
+</div>
+</div>
+
+<!-- 4. ママの声 -->
+<div class="divider"></div>
+<span class="section-label">改善④ ママの声（口コミ風コンポーネント）</span>
+<div class="mama-voice">
+<div class="mama-voice-header">
+<div class="mama-avatar">👩</div>
+<div class="mama-name">りかママ（8ヶ月の男の子）</div>
+</div>
+<div class="mama-voice-text">「冷凍ストックを始めてから、毎日の離乳食作りが本当にラクになりました。週末に1時間まとめて作って平日はレンジでチンするだけ！」</div>
+</div>
+<div class="mama-voice">
+<div class="mama-voice-header">
+<div class="mama-avatar">👩‍🦱</div>
+<div class="mama-name">あいママ（1歳2ヶ月の女の子）</div>
+</div>
+<div class="mama-voice-text">「パルシステムのお試しセット、野菜の裏ごしが本当になめらかで手作りより食いつきが良かったです 笑」</div>
+</div>
+
+<!-- 5. 監修バッジ -->
+<div class="divider"></div>
+<span class="section-label">改善⑤ 専門家監修バッジ（E-E-A-T強化）</span>
+<div class="expert-badge">
+<div class="expert-icon">👩‍⚕️</div>
+<div class="expert-info">
+<strong>管理栄養士 山田花子 監修</strong>
+乳幼児栄養の専門家。保育園での給食指導歴10年。<br>
+「この記事の栄養情報は最新のガイドラインに基づいています」
+</div>
+</div>
+
+<!-- 6. FAQ -->
+<div class="divider"></div>
+<span class="section-label">改善⑥ FAQ セクション（FAQ Schema対応）</span>
+<div class="faq-section">
+<h2>❓ よくある質問</h2>
+<div class="faq-item">
+<div class="faq-q">離乳食はいつから始めればいいですか？</div>
+<div class="faq-a">生後5〜6ヶ月頃が目安です。首がしっかりすわり、食べ物に興味を示し始めたらスタートのサインです。</div>
+</div>
+<div class="faq-item">
+<div class="faq-q">アレルギーが心配な食材はどう進めればいい？</div>
+<div class="faq-a">卵・小麦・乳製品は、平日の午前中に少量ずつ始めましょう。万が一の反応にすぐ対応できます。</div>
+</div>
+<div class="faq-item">
+<div class="faq-q">離乳食を食べてくれない時はどうすれば？</div>
+<div class="faq-a">焦らなくて大丈夫です。温度・食感・味付けを変えてみたり、ママが美味しそうに食べる姿を見せるのも効果的です。</div>
+</div>
+</div>
+
+<!-- 7. あわせて読みたい -->
+<div class="divider"></div>
+<span class="section-label">改善⑦ あわせて読みたい（内部リンク強化）</span>
+<div class="related-callout">
+<div class="related-callout-title">📚 あわせて読みたい</div>
+<a class="related-link" href="#">離乳食の冷凍保存テクニック｜1週間分をまとめて作る方法</a>
+<a class="related-link" href="#">【月齢別】離乳食の食材一覧｜いつから何を食べさせる？</a>
+<a class="related-link" href="#">ベビーフードおすすめランキング｜市販品を徹底比較</a>
+</div>
+
+<!-- 8. ステージハブ -->
+<div class="divider"></div>
+<span class="section-label">改善⑧ ステージハブページ強化</span>
+<div class="stage-hub">
+<h3>🌸 ステージ別の記事を探す</h3>
+<div class="stage-cards">
+<div class="stage-card"><div class="emoji">🤰</div><div class="stage-name">妊活中</div><div class="article-count">4記事</div></div>
+<div class="stage-card"><div class="emoji">🤱</div><div class="stage-name">妊娠初期</div><div class="article-count">6記事</div></div>
+<div class="stage-card"><div class="emoji">👶</div><div class="stage-name">新生児</div><div class="article-count">8記事</div></div>
+<div class="stage-card"><div class="emoji">🍼</div><div class="stage-name">0歳</div><div class="article-count">12記事</div></div>
+<div class="stage-card"><div class="emoji">👣</div><div class="stage-name">1歳</div><div class="article-count">9記事</div></div>
+<div class="stage-card"><div class="emoji">🎨</div><div class="stage-name">2-3歳</div><div class="article-count">7記事</div></div>
+</div>
+</div>
+
+<div class="note">※ これらの改善はSEO効果（FAQ Schema, BreadcrumbList, Product Schema）+ UX改善（離脱率低減、CTR向上）の両方を狙っています</div>
+
+</div>
+</body>
+</html>
